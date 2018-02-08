@@ -1,4 +1,4 @@
-![Logo](/uploads/fgwiki/logo.png "Logo"){.pagelogo}<!-- TITLE: Bem Vindo à fgwiki -->
+![Logo](/uploads/fgwiki/logo.png "Logo"){.left}<!-- TITLE: Bem Vindo à fgwiki -->
 <!-- SUBTITLE: Uma wiki dedicada a jogos de luta -->
 
 # Jogos:
