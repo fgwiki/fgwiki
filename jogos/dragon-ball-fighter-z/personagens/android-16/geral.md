@@ -3,7 +3,7 @@
 
 # Header
 
-<table>
+<table width="100%">
         <tr>
             <th>5H</th>
             <th>Informações:</th>
