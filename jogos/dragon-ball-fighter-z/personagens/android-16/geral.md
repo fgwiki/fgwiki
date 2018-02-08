@@ -30,13 +30,13 @@
                     </tr>
                     <tr>
                         <td colspan="5">
-														# Teste de markdown aqui
-														- ayy lmao
-														- kek
-														- top kek
+# Teste de markdown aqui
+- ayy lmao
+- kek
+- top kek
 
-														> quotes existem
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi beatae eum non nemo facilis ea ad velit harum nesciunt corporis?
+> quotes existem
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi beatae eum non nemo facilis ea ad velit harum nesciunt corporis?
                         </td>
                     </tr>
                 </table>
