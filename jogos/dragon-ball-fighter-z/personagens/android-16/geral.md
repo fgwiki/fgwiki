@@ -3,7 +3,7 @@
 
 # Header
 
-<table>
+<table align="right">
         <tr>
             <th>5H</th>
         </tr>
