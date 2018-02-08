@@ -9,5 +9,5 @@ Aqui você encontra as páginas para cada jogo nesta wiki
 ## Guilty Gear Xrd
 [Página Inicial](/jogos/guilty-gear-xrd/home)
 
-# Como contribuir?
-Lorem ipsum dolor sit amet
+# Institucional
+[Quem Somos](/institucional/quem-somos)
