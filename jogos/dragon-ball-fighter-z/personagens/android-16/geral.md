@@ -54,16 +54,16 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi beatae eum non nem
 <!-- SUBTITLE: Combos mais basicos que funcinam na maioria das situações.-->
 
 0 barra e sem assist
-2M > 5M > j.MH > SD > j.ML > (delay) > dj.LL > j.SS > j.214L - 4375dmg
+2M > 5M > j. MH > SD > j. ML > (delay) > dj. LL > j. SS > j.214L - 4375dmg
 
 2H sem barra
-2H > SD > j.LM jc j.LML > j.214L
+2H > SD > j. LM jc j. LML > j. 214L
 
 0 barra com sparking
-2M > 5M > j.ML > dj.MLL > {Sparking} > 2M > 5M > j.ML > dj.LLL > SD > j.LL > j.SS > 214L - 5346dmg
+2M > 5M > j. ML > dj. MLL > {Sparking} > 2M > 5M > j. ML > dj. LLL > SD > j. LL > j. SS > 214L - 5346dmg
 
 0 barra  + beam assist
-2M > 5M > j.MH > SD > j.ML > (delay) > dj.LL > j.SS > j.214L > A1 > SD > j.LM jc j.LM > j.236L
+2M > 5M > j. MH > SD > j. ML > (delay) > dj. LL > j. SS > j. 214L > A1 > SD > j. LM jc j. LM > j.236L
 da pra substitiur o segundo SD por 5M  > j.ML etc com outros assists tipo do Vegeta etc.
 
 Todos esses combos depois do air grab combam em super no chão, lvl 1 e lvl 3
