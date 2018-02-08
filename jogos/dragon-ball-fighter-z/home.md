@@ -1,6 +1,6 @@
 <!-- TITLE: Dragon Ball Fighter Z -->
 <!-- SUBTITLE:-->
-![Dragon Ball FighterZ](http://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg?t=1517353014){.center}
+![Dragon Ball FighterZ](http://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg?t=1517353014){.centered}
 Dragon Ball FighterZ é um jogo 3v3 desenvolvido pela Arc System Works baseado na franquia Dragon Ball. O jogo utiliza o mesmo estilo visual de Guilty gear Xrd, onde modelos 3D tentam imitar ao máximo modelos 2D. O jogo roda na Unreal engine 4.
 
 ---
