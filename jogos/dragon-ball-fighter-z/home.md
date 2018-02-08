@@ -56,10 +56,16 @@ Sparking Blast aumenta sua força e suas opções de cancels por um tempo limita
 - Segure botões durante o Vanish para teleportar atrás do seu oponente sem atacar e praticamente sem recovery.
 - Cooldown de assists irá recuperar até mesmo durante blockstun/hitstun do seu oponente.
 
-## Vanish (M+H, air OK)
+## Vanish
+```
+(M+H, air OK)
+```
 Custa 1 barra. Teleporta atrás do seu oponente e ataca. Se feito no meio de um combo dá wallbounce. Se for feito no neutro ele só joga o oponente longe. Durante o Sparking Blast segure M+H para teleportar atrás do seu oponente sem atacar e recuperar instantâneamente.
 
-## Guard Cancel Change (6+A1/A2 durante blockstun)
+## Guard Cancel Change
+```
+(6+A1/A2 durante blockstun)
+```
 Gasta 1 barra. Troca de personagem. Ao usar o guard cancel change você não pode chamar assists por um tempo. Se você não tiver outros personagens vivos, o guard cancel funcionará como um vanish.
 
 ## Ultimate Z Change (A1/A2 ou 4+A1/A2 durante um super ou 41236+A1/A2 ou 63214+A1/A2)
