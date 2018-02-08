@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+![Logo](/uploads/fgwiki/logo.png "Logo"){.pagelogo}<!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Welcome to fgwiki
