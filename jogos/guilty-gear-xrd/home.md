@@ -11,7 +11,8 @@
 [Sol Badguy](/jogos/guilty-gear-xrd/personagens/sol-badguy) [Ky Kiske](/jogos/guilty-gear-xrd/personagens/ky-kiske) [Elphelt Valentine](/jogos/guilty-gear-xrd/personagens/elphelt-valentine) [Millia Rage](/jogos/guilty-gear-xrd/personagens/millia-rage) [Potemkin](/jogos/guilty-gear-xrd/personagens/potemkin)
 
 
-# Mecânicas Defensivas
+# Mecânicas Passivas
+Mecânicas do jogo que são acionadas enquanto o jogador age.
 
-
-# Mecânicas Ofensivas
+# Mecânicas Ativas
+Mecânicas do jogo que são acionadas à escolha do jogador.
