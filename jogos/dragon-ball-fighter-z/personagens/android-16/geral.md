@@ -20,7 +20,6 @@
 - Recovery: 12
 - On hit: 12
 - On block: 12
-
         </td>
     </tr>
 </table>
