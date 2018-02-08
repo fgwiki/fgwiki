@@ -10,4 +10,6 @@ Aqui você encontra as páginas para cada jogo nesta wiki
 [Página Inicial](/jogos/guilty-gear-xrd/home)
 
 # Institucional
-[Quem Somos](/institucional/quem-somos)
+|   |   |   |
+|---|---|---|
+| [Quem Somos](/institucional/quem-somos)  | [Links Úteis](/institucional/links)  | [Regras](/institucional/regras)  |
