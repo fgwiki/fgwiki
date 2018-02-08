@@ -4,7 +4,7 @@
 # Jogos
 Aqui você encontra as páginas para cada jogo nesta wiki
 ## Dragon Ball FighterZ
-um monte de links aqui e etc.
+[Link](/jogos/dragon-ball-fighter-z/home)
 
 # Como contribuir?
 Lorem ipsum dolor sit amet
