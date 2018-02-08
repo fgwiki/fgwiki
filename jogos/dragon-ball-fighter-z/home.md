@@ -11,7 +11,7 @@
 | [Android 16](/jogos/dragon-ball-fighter-z/personagens/Android-16) | [Android 18](/jogos/dragon-ball-fighter-z/personagens/Android-18) | [Android 21](/jogos/dragon-ball-fighter-z/personagens/Android-21) |
 | [Beerus](/jogos/dragon-ball-fighter-z/personagens/Beerus) | [Captain Ginyu](/jogos/dragon-ball-fighter-z/personagens/Captain-Ginyu) | [Cell](/jogos/dragon-ball-fighter-z/personagens/Cell) |
 | [Frieza](/jogos/dragon-ball-fighter-z/personagens/Frieza) | [Gohan (Adult)](/jogos/dragon-ball-fighter-z/personagens/Gohan-(Adult)) | [Gohan (Teen)](/jogos/dragon-ball-fighter-z/personagens/Gohan-(Teen)) |
-| [Goku (SSGSS)](/jogos/dragon-ball-fighter-z/personagens/Goku-(SSGSS)) | [Goku (Super Saiyan)](/jogos/dragon-ball-fighter-z/personagens/Goku-(Super Saiyan)) | [Goku Black](/jogos/dragon-ball-fighter-z/personagens/Goku-Black) |
+| [Goku (SSGSS)](/jogos/dragon-ball-fighter-z/personagens/Goku-(SSGSS)) | [Goku (Super Saiyan)](/jogos/dragon-ball-fighter-z/personagens/Goku%20(SSGSS)) | [Goku Black](/jogos/dragon-ball-fighter-z/personagens/Goku-Black) |
 | [Gotenks](/jogos/dragon-ball-fighter-z/personagens/Gotenks) | [Hit](/jogos/dragon-ball-fighter-z/personagens/Hit) | [Piccolo](/jogos/dragon-ball-fighter-z/personagens/Piccolo) |
 | [Kid Buu](/jogos/dragon-ball-fighter-z/personagens/Kid-Buu) | [Krillin](/jogos/dragon-ball-fighter-z/personagens/Krillin) | [Majin Buu](/jogos/dragon-ball-fighter-z/personagens/Majin-Buu) |
 | [Nappa](/jogos/dragon-ball-fighter-z/personagens/Nappa) | [Tien](/jogos/dragon-ball-fighter-z/personagens/Tien) | [Trunks](/jogos/dragon-ball-fighter-z/personagens/Trunks) |
