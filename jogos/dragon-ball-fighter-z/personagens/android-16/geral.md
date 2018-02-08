@@ -4,7 +4,7 @@
 # Header
 <table>
 <tr>
-<td><h1 style="background-color:red;">AEE CARALHO</h1></td>
+<td><h1 style="width:100%;">AEE CARALHO</h1></td>
 <td>VAI BRASIL</td>
 </tr>
 </table>
