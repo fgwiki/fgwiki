@@ -3,7 +3,7 @@
 
 # Header
 <style>
-span.teste {
+span {
 	background-color:red;
 }
 </style>
