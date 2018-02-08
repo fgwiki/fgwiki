@@ -1,7 +1,7 @@
 <!-- TITLE: Dragon Ball Fighter Z -->
-<!-- SUBTITLE:Dragon Ball FighterZ é um jogo 3v3 desenvolvido pela Arc System Works baseado na franquia Dragon Ball. O jogo utiliza o mesmo estilo visual de Guilty gear Xrd, onde modelos 3D tentam imitar ao máximo modelos 2D. O jogo roda na Unreal engine 4.-->
+<!-- SUBTITLE:-->
 ![Dragon Ball FighterZ](https://compass-ssl.microsoft.com/assets/47/3d/473df497-8b1f-4d90-bea5-9eee376d1992.jpg?n=Dragon-Ball-FighterZ_GLP-Page-Hero-1084_1920x600_02.jpg)
-
+Dragon Ball FighterZ é um jogo 3v3 desenvolvido pela Arc System Works baseado na franquia Dragon Ball. O jogo utiliza o mesmo estilo visual de Guilty gear Xrd, onde modelos 3D tentam imitar ao máximo modelos 2D. O jogo roda na Unreal engine 4.
 
 ---
 # Lista de Personagens
