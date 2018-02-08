@@ -8,10 +8,15 @@
 
 
 # Lista de Personagens
-|                                                               |                                                         |                                                                           |
-|---------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------|
-| [Millia Rage](/jogos/guilty-gear-xrd/personagens/millia-rage) | [Potemkin](/jogos/guilty-gear-xrd/personagens/potemkin) | [Venom](/jogos/guilty-gear-xrd/personagens/Venom)                         |
-| [Sol Badguy](/jogos/guilty-gear-xrd/personagens/sol-badguy)   | [Ky Kiske](/jogos/guilty-gear-xrd/personagens/ky-kiske) | [Elphelt Valentine](/jogos/guilty-gear-xrd/personagens/elphelt-valentine) |
+| Personagens                                                     	|                                                         	|                                                                               	|                                                     	|
+|-----------------------------------------------------------------	|---------------------------------------------------------	|-------------------------------------------------------------------------------	|-----------------------------------------------------	|
+| [Answer](/jogos/guilty-gear-xrd/personagens/Answer)             	| [Axl Low](/jogos/guilty-gear-xrd/personagens/Axl Low)   	| [Baiken](/jogos/guilty-gear-xrd/personagens/Baiken)                           	| [Bedman](/jogos/guilty-gear-xrd/personagens/Bedman) 	|
+| [Chipp Zanuff](/jogos/guilty-gear-xrd/personagens/Chipp Zanuff) 	| [Dizzy](/jogos/guilty-gear-xrd/personagens/Dizzy)       	| [Elphelt Valentine](/jogos/guilty-gear-xrd/personagens/Elphelt Valentine)     	| [Faust](/jogos/guilty-gear-xrd/personagens/Faust)   	|
+| [I-No](/jogos/guilty-gear-xrd/personagens/I-No)                 	| [Jack-O'](/jogos/guilty-gear-xrd/personagens/Jack-O')   	| [Jam Kuradoberi](/jogos/guilty-gear-xrd/personagens/Jam Kuradoberi)           	| [Johnny](/jogos/guilty-gear-xrd/personagens/Johnny) 	|
+| [Kum Haehyun](/jogos/guilty-gear-xrd/personagens/Kum Haehyun)   	| [Ky Kiske](/jogos/guilty-gear-xrd/personagens/Ky Kiske) 	| [Leo Whitefang](/jogos/guilty-gear-xrd/personagens/Leo Whitefang)             	| [May](/jogos/guilty-gear-xrd/personagens/May)       	|
+| [Millia Rage](/jogos/guilty-gear-xrd/personagens/Millia Rage)   	| [Potemkin](/jogos/guilty-gear-xrd/personagens/Potemkin) 	| [Ramlethal Valentine](/jogos/guilty-gear-xrd/personagens/Ramlethal Valentine) 	| [Raven](/jogos/guilty-gear-xrd/personagens/Raven)   	|
+| [Sin Kiske](/jogos/guilty-gear-xrd/personagens/Sin Kiske)       	| [Slayer](/jogos/guilty-gear-xrd/personagens/Slayer)     	| [Sol Badguy](/jogos/guilty-gear-xrd/personagens/Sol Badguy)                   	| [Venom](/jogos/guilty-gear-xrd/personagens/Venom)   	|
+| [Zato-1](/jogos/guilty-gear-xrd/personagens/Zato-1)             	|                                                         	|                                                                               	|                                                     	|
 # Mecânicas Passivas
 Mecânicas do jogo que são acionadas enquanto o jogador age.
 
