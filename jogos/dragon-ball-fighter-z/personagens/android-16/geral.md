@@ -50,9 +50,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi beatae eum non nem
 
 
 # Combos
-<!-- TITLE: BnB -->
-<!-- SUBTITLE: Combos mais basicos que funcinam na maioria das situações.-->
-
 0 barra e sem assist
 2M > 5M > j. MH > SD > j. ML > (delay) > dj. LL > j. SS > j.214L - 4375dmg
 
@@ -64,6 +61,9 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi beatae eum non nem
 
 0 barra  + beam assist
 2M > 5M > j. MH > SD > j. ML > (delay) > dj. LL > j. SS > j. 214L > A1 > SD > j. LM jc j. LM > j.236L
-da pra substitiur o segundo SD por 5M  > j.ML etc com outros assists tipo do Vegeta etc.
+da pra substitiur o segundo SD por 5M  > j. ML etc com outros assists tipo do Vegeta etc.
 
 Todos esses combos depois do air grab combam em super no chão, lvl 1 e lvl 3
+
+
+# Frame Data
