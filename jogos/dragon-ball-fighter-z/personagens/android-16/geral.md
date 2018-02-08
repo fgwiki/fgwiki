@@ -6,6 +6,7 @@
 <table>
         <tr>
             <th>5H</th>
+            <th>Informações:</th>
         </tr>
         <tr>
             <td>
