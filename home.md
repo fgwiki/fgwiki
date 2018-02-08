@@ -4,7 +4,7 @@
 # Jogos
 Aqui você encontra as páginas para cada jogo nesta wiki
 
-### DBFZ
+# DBFZ
 
 # Como contribuir?
 Lorem ipsum dolor sit amet
