@@ -3,8 +3,8 @@
 
 # Jogos
 Aqui você encontra as páginas para cada jogo nesta wiki
-
-# DBFZ
+## Dragon Ball FighterZ
+um monte de links aqui e etc.
 
 # Como contribuir?
 Lorem ipsum dolor sit amet
