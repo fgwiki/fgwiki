@@ -28,6 +28,11 @@
                         <td>On hit</td>
                         <td>On block</td>
                     </tr>
+                    <tr>
+                        <td colspan="5">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi beatae eum non nemo facilis ea ad velit harum nesciunt corporis?
+                        </td>
+                    </tr>
                 </table>
             </td>
         </tr>
