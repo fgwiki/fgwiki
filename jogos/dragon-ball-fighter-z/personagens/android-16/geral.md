@@ -11,7 +11,6 @@
     <tr>
         <td>
             <img src="http://placehold.it/150x300" alt="5H">
-            <span align="center">5H</span>
         </td>
         <td>
 				
