@@ -1,7 +1,7 @@
 <!-- TITLE: Dragon Ball Fighter Z -->
 <!-- SUBTITLE:-->
 ![Dragon Ball FighterZ](http://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg?t=1517353014)
-Dragon Ball FighterZ é um jogo 3v3 desenvolvido pela Arc System Works baseado na franquia Dragon Ball. O jogo utiliza o mesmo estilo visual de Guilty gear Xrd, onde modelos 3D tentam imitar ao máximo modelos 2D. O jogo roda na Unreal engine 4.
+Dragon Ball FighterZ é um jogo 3v3 desenvolvido pela Arc System Works baseado na franquia Dragon Ball. O jogo utiliza o mesmo estilo visual de Guilty gear Xrd, onde modelos 3D tentam imitar ao máximo modelos 2D. O jogo roda na Unreal Engine 4.
 
 ---
 # Lista de Personagens
@@ -60,20 +60,20 @@ Faz um movimento similar ao burst de Guilty Gear/Blazblue, porém, ao contrário
 Sparking Blast aumenta sua força e suas opções de cancels por um tempo limitado:
 
 **Efeitos do Sparking Blast:**
-- Afeta o Time inteiro.
-- Quanto mais personagens menos tempo dura o Sparking Blast.
-- Vida azul do Personagem ativo recupera com mais rapidez.
-- Golpes no chão podem ser cancelados em pulo (inclusve on block).
-- Golpes aéreos podem ser cancelados em airdash.
-- Ganho de barra aumenta.
-- 6M (normalmente o overhead) pode ser cancelado em specials.
-- Super dash tem menos pushback ao ser defendido e pode ser cancelado em ataques logo assim que defendido.
-- Segure botões durante o Vanish para teleportar atrás do seu oponente sem atacar e praticamente sem recovery.
-- Cooldown de assists irá recuperar até mesmo durante blockstun/hitstun do seu oponente.
+- Afeta o Time inteiro;
+- Quanto mais personagens vivos em seu time, menor é a duração do Sparking Blast;
+- A Vida Azul do Personagem ativo é regenerada automaticamente, mesmo durante hitstun, em uma taxa elevada;
+- Golpes no chão podem ser cancelados em pulo (inclusive on block);
+- Golpes aéreos podem ser cancelados em airdash caso a segunda ação aérea (segundo pulo/airdash) não tenha sido utilizada anteriormente;
+- Ganho de barra dobrado;
+- 6M (Overhead universal) pode ser cancelado em Special Moves ou Airdash;
+- Super Dash ao ser defendido tem menos pushback e pode ser cancelado em ataques instantaneamente;
+- Segure M+H ou seu atalho de Vanish para teleportar atrás de seu oponente sem atacar, ascendendo levemente podendo defender ou atacar instantaneamente;
+- O Cooldown de seus Assists irá diminuir até mesmo durante blockstun/hitstun de seu oponente.
 
 ## Vanish
 `(M+H, air OK)`
-Custa 1 barra. Teleporta atrás do seu oponente e ataca. Se feito no meio de um combo dá wallbounce. Se for feito no neutro ele só joga o oponente longe. Durante o Sparking Blast segure M+H para teleportar atrás do seu oponente sem atacar e recuperar instantâneamente.
+Custa 1 barra. Teleporta atrás do seu oponente e ataca. Se feito durante o hitstun de algum golpe, cancelando-o, causa wallbounce. Se for feito no neutro apenas lança o oponente para longe. Durante o Sparking Blast segure M+H para teleportar atrás do seu oponente sem atacar e recuperar instantâneamente.
 
 ## Guard Cancel Change
 `(6+A1/A2 durante blockstun)`
@@ -81,6 +81,6 @@ Gasta 1 barra. Troca de personagem. Ao usar o guard cancel change você não pod
 
 ## Ultimate Z Change
 `(A1/A2 ou 4+A1/A2 durante um super ou 41236+A1/A2 ou 63214+A1/A2)`
-Similar ao DHC da série Marvel vs Capcom. Chama outro personagem do seu time para dar um super. Pode ser feito durante um super do seu personagem ativo ou, se feito com 41236+A1/A2 ou 63214+A1/A2, Simplesmente chama outro personagem seu para fazer um super.
+Similar ao DHC da série Marvel vs Capcom. Chama outro personagem do seu time para dar um Super. Pode ser feito durante um super do seu personagem ativo ou, se feito com 41236+A1/A2 ou 63214+A1/A2, Simplesmente chama outro personagem seu para fazer um super.
 
 Personagens saindo ficarão em cooldown, um personagem pode entrar independente do cooldown. Gasta 1 ou 3 barras dependendo de qual super você fez.
