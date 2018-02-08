@@ -15,12 +15,11 @@
         </td>
         <td>
 				
-	- Startup: 12
-	- Active: 12
-	- Recovery: 12
-	- On hit: 12
-	- On block: 12
-
+- Startup: 12
+- Active: 12
+- Recovery: 12
+- On hit: 12
+- On block: 12
 
         </td>
     </tr>
