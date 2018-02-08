@@ -10,7 +10,7 @@
 
 
 ## Lista de Personagens
-### [Sol Badguy](/jogos/guilty-gear-xrd/personagens/sol-badguy)
+[Sol Badguy](/jogos/guilty-gear-xrd/personagens/sol-badguy)
 
 
 ## Mecânicas Defensivas
