@@ -1,5 +1,8 @@
-![Logo](/uploads/fgwiki/logo.png "Logo"){.pagelogo}<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+![Logo](/uploads/fgwiki/logo.png "Logo"){.pagelogo}<!-- TITLE: Bem Vindo à fgwiki -->
+<!-- SUBTITLE: Uma wiki dedicada a jogos de luta -->
 
-# Welcome to fgwiki
-Uma wiki dedicada para fighting games em geral.
+# Jogos:
+Aqui você encontra as páginas para cada jogo nesta wiki
+
+# Como contribuir?
+Lorem ipsum dolor sit amet
