@@ -8,7 +8,7 @@
 
 
 # Lista de Personagens
-[Sol Badguy](/jogos/guilty-gear-xrd/personagens/sol-badguy)
+[Sol Badguy](/jogos/guilty-gear-xrd/personagens/sol-badguy) [Ky Kiske](/jogos/guilty-gear-xrd/personagens/ky-kiske)
 
 
 # Mecânicas Defensivas
