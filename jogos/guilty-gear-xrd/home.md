@@ -8,7 +8,7 @@
 
 
 # Lista de Personagens
-[Sol Badguy](/jogos/guilty-gear-xrd/personagens/sol-badguy) [Ky Kiske](/jogos/guilty-gear-xrd/personagens/ky-kiske) [Elphelt Valentine](/jogos/guilty-gear-xrd/personagens/elphelt-valentine)[Millia Rage](/jogos/guilty-gear-xrd/personagens/millia-rage) [Potemkin](/jogos/guilty-gear-xrd/personagens/potemkin)
+[Sol Badguy](/jogos/guilty-gear-xrd/personagens/sol-badguy) [Ky Kiske](/jogos/guilty-gear-xrd/personagens/ky-kiske) [Elphelt Valentine](/jogos/guilty-gear-xrd/personagens/elphelt-valentine) [Millia Rage](/jogos/guilty-gear-xrd/personagens/millia-rage) [Potemkin](/jogos/guilty-gear-xrd/personagens/potemkin)
 
 
 # Mecânicas Defensivas
