@@ -6,6 +6,27 @@ Originally created by Dr. Gero for the express purpose of killing Goku, Android 
 
 In Dragon Ball FighterZ, Android 16 is a grappler who can break through his opponents' defenses with powerful command grabs. While lacking in means to deal with long-ranged fighters, if he can get close enough to get his hands on his foes, he can deal a lot of damage. 
 
+<style>
+    @media screen and (min-width:320px) {
+        .character {
+            display:none;
+        }
+    }
+</style>
+
+<table class="character">
+    <tr>
+        <td>
+            <img src="http://www.dustloop.com/wiki/images/thumb/4/43/DBFZ_Android16_Portrait.png/391px-DBFZ_Android16_Portrait.png" alt="Android 16">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Teste
+        </td>
+    </tr>
+</table>
+
 # Playstyle
 Ele é o grappler mais "tradicional" do jogo, dano alto mesmo sem barra e sem assist, bons confirms e range razoavel, tem  hard knockdown no 236l permitindo bom oki,
 Como assist ele é bom para extender combos e ok para usar em pressão nas blockstrings
