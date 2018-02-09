@@ -2,7 +2,22 @@
 <!-- SUBTITLE: A quick summary of Geral -->
 
 # Header
-
+<table>
+    <tr>
+        <td>
+            <p>Originally created by Dr. Gero for the express purpose of killing Goku, Android 16 would go on to become his ally instead
+            during Cell's rampage. Developing a fondness for nature and animals, he would fight to protect the birds and the forests
+            from Cell. He was destroyed by Cell, playing a part in helping Gohan awaken to the state of Super Saiyan 2 before Cell snuffed
+            him out.</p>
+            <p> In Dragon Ball FighterZ, Android 16 is a grappler who can break through his opponents' defenses with powerful command grabs.
+            While lacking in means to deal with long-ranged fighters, if he can get close enough to get his hands on his foes, he can
+            deal a lot of damage.</p>
+        </td>
+        <td>
+            <img src="http://www.dustloop.com/wiki/images/thumb/4/43/DBFZ_Android16_Portrait.png/391px-DBFZ_Android16_Portrait.png" alt="Android 16">
+        </td>
+    </tr>
+</table>
 
 # Playstyle
 Ele é o grappler mais "tradicional" do jogo, dano alto mesmo sem barra e sem assist, bons confirms e range razoavel, tem  hard knockdown no 236l permitindo bom oki,
