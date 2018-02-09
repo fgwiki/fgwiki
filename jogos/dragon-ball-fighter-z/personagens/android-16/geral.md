@@ -12,12 +12,47 @@
             <td>
                 <img src="http://placehold.it/150x300" alt="5H">
             </td>
-						<td>
-								Teste
-						</td>
-				</tr>
+            <td>
+                <table>
+                    <tr>
+                        <th>Startup</th>
+                        <th>Active</th>
+                        <th>Recovery</th>
+                        <th>On hit</th>
+                        <th>On block</th>
+                    </tr>
+                    <tr>
+                        <td>Startup</td>
+                        <td>Active</td>
+                        <td>Recovery</td>
+                        <td>On hit</td>
+                        <td>On block</td>
+                    </tr>
+                    <tr>
+                        <td colspan="5">
+
+### Teste de markdown aqui
+
+- ayy lmao
+- kek
+- top kek
+
+> quotes existem
+
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi beatae eum non nemo facilis ea ad velit harum nesciunt corporis?
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
 </table>
 
+# Playstyle
+Ele é o grappler mais "tradicional" do jogo, dano alto mesmo sem barra e sem assist, bons confirms e range razoavel, tem  hard knockdown no 236l permitindo bom oki,
+Como assist ele é bom para extender combos e ok para usar em pressão nas blockstrings
+# Move List
+Listar os Golpes
 
 # Combos
 **0 barra e sem assist**
@@ -39,3 +74,6 @@
 # Frame Data
 
 ![A 16 Frame Data](/uploads/a-16-frame-data.jpg "A 16 Frame Data")
+
+# Cores
+Postar SS com todas as cores ?!
