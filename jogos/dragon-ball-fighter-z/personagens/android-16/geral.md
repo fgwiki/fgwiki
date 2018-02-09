@@ -1,7 +1,7 @@
 <!-- TITLE: Android 16 -->
 <!-- SUBTITLE: Hell Flash -->
 
-# Header
+# Visão geral
 Originally created by Dr. Gero for the express purpose of killing Goku, Android 16 would go on to become his ally instead during Cell's rampage. Developing a fondness for nature and animals, he would fight to protect the birds and the forests from Cell. He was destroyed by Cell, playing a part in helping Gohan awaken to the state of Super Saiyan 2 before Cell snuffed him out.
 
 In Dragon Ball FighterZ, Android 16 is a grappler who can break through his opponents' defenses with powerful command grabs. While lacking in means to deal with long-ranged fighters, if he can get close enough to get his hands on his foes, he can deal a lot of damage. 
