@@ -3,32 +3,6 @@
 
 # Header
 
-<table width="100%" align="center">
-        <tr>
-            <th>5H</th>
-            <th>Informações:</th>
-        </tr>
-        <tr>
-            <td>
-                <img src="http://placehold.it/150x300" alt="5H">
-            </td>
-            <td>
-                <table>
-                    <tr>
-                        <th>Startup</th>
-                        <th>Active</th>
-                        <th>Recovery</th>
-                        <th>On hit</th>
-                        <th>On block</th>
-                    </tr>
-                    <tr>
-                        <td>Startup</td>
-                        <td>Active</td>
-                        <td>Recovery</td>
-                        <td>On hit</td>
-                        <td>On block</td>
-                    </tr>
-</table>
 
 # Playstyle
 Ele é o grappler mais "tradicional" do jogo, dano alto mesmo sem barra e sem assist, bons confirms e range razoavel, tem  hard knockdown no 236l permitindo bom oki,
