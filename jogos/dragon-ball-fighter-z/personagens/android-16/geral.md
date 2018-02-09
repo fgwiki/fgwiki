@@ -8,11 +8,29 @@ In Dragon Ball FighterZ, Android 16 is a grappler who can break through his oppo
 # Playstyle
 Ele é o grappler mais "tradicional" do jogo, dano alto mesmo sem barra e sem assist, bons confirms e range razoavel, tem  hard knockdown no 236l permitindo bom oki,
 Como assist ele é bom para extender combos e ok para usar em pressão nas blockstrings
+
+# Prós / Contras
+# Normais
+5L
+5LL
+5LLL
+5M - da ground bounce em inimigos no ar, cancelevel com pulo on hit
+5H - hitbox grande e tem armor
+5S - Projetil, pode ser feito 2x
+2L - low poke e combo starter
+2M - low poke e combo starter
+2H
+6M
+j. L
+j. M
+j. H
+j. S
+j. 2H
 # Move List
 **Special Moves**
-Dynamite Driver – 236+L_M_H (no chão)
-Flying Powerbomb – 214+L_M_H 
-Flying Slide Powerbomb – 236+L_M_H (no ar)
+Dynamite Driver – 236+L/M/H (no chão)
+Flying Powerbomb – 214+L/M/H 
+Flying Slide Powerbomb – 236+L/M/H (no ar)
 Hell Heat – 236+S ou 214+S
 `Golpes com H gastam 1 barra e tem suas propriedades alteradas`
 
