@@ -7,15 +7,17 @@ Originally created by Dr. Gero for the express purpose of killing Goku, Android 
 In Dragon Ball FighterZ, Android 16 is a grappler who can break through his opponents' defenses with powerful command grabs. While lacking in means to deal with long-ranged fighters, if he can get close enough to get his hands on his foes, he can deal a lot of damage. 
 
 <style>
+	.test {
+        background-color:blue;
+    }
+
     @media screen and (min-width:320px) {
         .test {
             background-color:red;
         }
     }
 
-    .test {
-        background-color:blue;
-    }
+    
 </style>
 
 <div class="test" style="width:100px; height:100px;"></div>
