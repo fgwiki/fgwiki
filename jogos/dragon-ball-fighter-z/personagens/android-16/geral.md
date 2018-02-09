@@ -17,6 +17,8 @@ Android 16
 <tr>
 </table>
 
+teste
+
 # Playstyle
 Ele é o grappler mais "tradicional" do jogo, dano alto mesmo sem barra e sem assist, bons confirms e range razoavel, tem  hard knockdown no 236l permitindo bom oki,
 Como assist ele é bom para extender combos e ok para usar em pressão nas blockstrings
