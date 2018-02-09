@@ -14,7 +14,7 @@ In Dragon Ball FighterZ, Android 16 is a grappler who can break through his oppo
 <td>
 <span>Teste</span>
 </td>
-<tr>
+</tr>
 </table>
 
 # Playstyle
