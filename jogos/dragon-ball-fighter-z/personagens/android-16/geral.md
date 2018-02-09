@@ -10,6 +10,20 @@ Ele é o grappler mais "tradicional" do jogo, dano alto mesmo sem barra e sem as
 Como assist ele é bom para extender combos e ok para usar em pressão nas blockstrings
 
 # Prós / Contras
+**Prós**
+* hard knockdown no 236L
+* Bons pokes
+* Bom Range nos normais
+* 5H com armor e otima hitbox
+* Leva facil para o corner com ajuda de assist
+* Forte potencial de comeback
+
+**Contras**
+* hurtbox grande então é facil tomar jumpins e combos especificos
+* Golpe mais rapido é 7F, 1F mais lento que a média do jogo,
+* Pode ter um pouco de dificuldade em aproximação
+* Poucas opções para sair de pressão
+
 # Normais
 5L
 5LL
