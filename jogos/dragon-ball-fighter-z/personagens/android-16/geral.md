@@ -11,6 +11,7 @@ Como assist ele é bom para extender combos e ok para usar em pressão nas block
 
 # Prós / Contras
 **Prós**
+* Dano alto mesmo sem assist
 * hard knockdown no 236L
 * Bons pokes
 * Bom Range nos normais
