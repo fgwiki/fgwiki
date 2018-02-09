@@ -16,21 +16,6 @@
 								Teste
 						</td>
 				</tr>
-### Teste de markdown aqui
-
-- ayy lmao
-- kek
-- top kek
-
-> quotes existem
-
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi beatae eum non nemo facilis ea ad velit harum nesciunt corporis?
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
 </table>
 
 
