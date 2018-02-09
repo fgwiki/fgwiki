@@ -14,6 +14,7 @@ Dynamite Driver – 236+L_M_H (no chão)
 Flying Powerbomb – 214+L_M_H 
 Flying Slide Powerbomb – 236+L_M_H (no ar)
 Hell Heat – 236+S ou 214+S
+`Golpes com H gastam 1 barra e tem suas propriedades alteradas`
 
 **Super Moves**
 Hell Flash – 236+LM
@@ -34,7 +35,7 @@ Suicide Bomb – 214+HS (3 barras)
 `2M > 5M > j. MH > SD > j. ML > (delay) > dj. LL > j. SS > j. 214L > A1 > SD > j. LM jc j. LM > j.236L`
 > da pra substitiur o segundo SD por 5M  > j. ML etc com outros assists tipo do Vegeta etc.
 
-`Todos esses combos depois do air grab combam em super no chão, lvl 1 e lvl 3`
+Todos esses combos depois do air grab combam em super no chão, lvl 1 e lvl 3`
 
 
 # Frame Data
