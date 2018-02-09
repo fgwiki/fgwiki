@@ -1,5 +1,5 @@
 <!-- TITLE: Android 16 -->
-<!-- SUBTITLE: A quick summary of Geral -->
+<!-- SUBTITLE: Hell Flash -->
 
 # Header
 Originally created by Dr. Gero for the express purpose of killing Goku, Android 16 would go on to become his ally instead during Cell's rampage. Developing a fondness for nature and animals, he would fight to protect the birds and the forests from Cell. He was destroyed by Cell, playing a part in helping Gohan awaken to the state of Super Saiyan 2 before Cell snuffed him out.
