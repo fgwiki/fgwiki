@@ -8,24 +8,17 @@ In Dragon Ball FighterZ, Android 16 is a grappler who can break through his oppo
 
 <style>
     @media screen and (min-width:320px) {
-        .character {
-            display:none;
+        .test {
+            background-color:red;
         }
+    }
+
+    .test {
+        background-color:blue;
     }
 </style>
 
-<table class="character">
-    <tr>
-        <td>
-            <img src="http://www.dustloop.com/wiki/images/thumb/4/43/DBFZ_Android16_Portrait.png/391px-DBFZ_Android16_Portrait.png" alt="Android 16">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Teste
-        </td>
-    </tr>
-</table>
+<div class="test" style="width:100px; height:100px;"></div>
 
 # Playstyle
 Ele é o grappler mais "tradicional" do jogo, dano alto mesmo sem barra e sem assist, bons confirms e range razoavel, tem  hard knockdown no 236l permitindo bom oki,
