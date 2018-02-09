@@ -50,7 +50,7 @@ Hell Heat – 236+S ou 214+S
 `Golpes com H gastam 1 barra e tem suas propriedades alteradas`
 
 **Super Moves**
-Hell Flash – 236+LM
+Hell Flash – 236+LM (1 barra)
 Hell Flash (Full Power) – 214+LM (3 barras)
 Suicide Bomb – 214+HS (3 barras)
 
