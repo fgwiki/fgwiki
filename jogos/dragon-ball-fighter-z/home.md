@@ -9,12 +9,12 @@ Dragon Ball FighterZ é um jogo 3v3 desenvolvido pela Arc System Works baseado n
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | [Android 16](/jogos/dragon-ball-fighter-z/personagens/Android-16/geral) | [Android 18](/jogos/dragon-ball-fighter-z/personagens/Android-18/geral) | [Android 21](/jogos/dragon-ball-fighter-z/personagens/Android-21/geral) |
 | [Beerus](/jogos/dragon-ball-fighter-z/personagens/Beerus/geral) | [Captain Ginyu](/jogos/dragon-ball-fighter-z/personagens/Captain-Ginyu/geral) | [Cell](/jogos/dragon-ball-fighter-z/personagens/Cell/geral) |
-| [Frieza](/jogos/dragon-ball-fighter-z/personagens/Frieza/geral) | [Gohan (Adult/geral)](/jogos/dragon-ball-fighter-z/personagens/Gohan-Adult/geral) | [Gohan (Teen/geral)](/jogos/dragon-ball-fighter-z/personagens/Gohan-Teen/geral) |
-| [Goku (SSGSS/geral)](/jogos/dragon-ball-fighter-z/personagens/Goku-Blue/geral) | [Goku (Super Saiyan/geral)](/jogos/dragon-ball-fighter-z/personagens/Goku-SSJ/geral) | [Goku Black](/jogos/dragon-ball-fighter-z/personagens/Goku-Black/geral) |
+| [Frieza](/jogos/dragon-ball-fighter-z/personagens/Frieza/geral) | [Gohan (Adult)](/jogos/dragon-ball-fighter-z/personagens/Gohan-Adult/geral) | [Gohan (Teen)](/jogos/dragon-ball-fighter-z/personagens/Gohan-Teen/geral) |
+| [Goku (SSGSS)](/jogos/dragon-ball-fighter-z/personagens/Goku-Blue/geral) | [Goku (Super Saiyan)](/jogos/dragon-ball-fighter-z/personagens/Goku-SSJ/geral) | [Goku Black](/jogos/dragon-ball-fighter-z/personagens/Goku-Black/geral) |
 | [Gotenks](/jogos/dragon-ball-fighter-z/personagens/Gotenks/geral) | [Hit](/jogos/dragon-ball-fighter-z/personagens/Hit/geral) | [Piccolo](/jogos/dragon-ball-fighter-z/personagens/Piccolo/geral) |
 | [Kid Buu](/jogos/dragon-ball-fighter-z/personagens/Kid-Buu/geral) | [Krillin](/jogos/dragon-ball-fighter-z/personagens/Krillin/geral) | [Majin Buu](/jogos/dragon-ball-fighter-z/personagens/Majin-Buu/geral) |
 | [Nappa](/jogos/dragon-ball-fighter-z/personagens/Nappa/geral) | [Tien](/jogos/dragon-ball-fighter-z/personagens/Tien/geral) | [Trunks](/jogos/dragon-ball-fighter-z/personagens/Trunks/geral) |
-| [Vegeta (SSGSS/geral)](/jogos/dragon-ball-fighter-z/personagens/Vegeta-Blue/geral) | [Vegeta (Super Saiyan/geral)](/jogos/dragon-ball-fighter-z/personagens/Vegeta-SSJ/geral) | [Yamcha](/jogos/dragon-ball-fighter-z/personagens/Yamcha/geral) |
+| [Vegeta (SSGSS)](/jogos/dragon-ball-fighter-z/personagens/Vegeta-Blue/geral) | [Vegeta (Super Saiyan)](/jogos/dragon-ball-fighter-z/personagens/Vegeta-SSJ/geral) | [Yamcha](/jogos/dragon-ball-fighter-z/personagens/Yamcha/geral) |
 # Mecânicas Básicas
 
 ## Notação
