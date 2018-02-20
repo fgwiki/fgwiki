@@ -1,6 +1,7 @@
 <!-- TITLE: Goku - 1: Geral -->
 <!-- SUBTITLE: "This'll be a good match." -->
 
+[Voltar à Dragon Ball FighterZ - Home](/jogos/dragon-ball-fighter-z/home)
 # Sobre o Personagem
 Son Goku, protagonista da série e artista marcial inigualável, é um personagem bem básico e completo, possuindo combos com dano decente e opções boas de neutro, além de um assist bem útil.
 
