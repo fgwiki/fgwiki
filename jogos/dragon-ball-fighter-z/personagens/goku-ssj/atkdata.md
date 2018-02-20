@@ -1,4 +1,4 @@
-<!-- TITLE: Golpes e Combos -->
+<!-- TITLE: Goku - 2: Golpes e Framedata -->
 
 [Voltar à Goku (Super Sayan) - Geral](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/geral)
 # Normais
