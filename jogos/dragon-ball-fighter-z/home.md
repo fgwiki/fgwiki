@@ -84,3 +84,12 @@ Gasta 1 barra. Troca de personagem. Ao usar o guard cancel change você não pod
 Similar ao DHC da série Marvel vs Capcom. Chama outro personagem do seu time para dar um Super. Pode ser feito durante um super do seu personagem ativo ou, se feito com 41236+A1/A2 ou 63214+A1/A2, Simplesmente chama outro personagem seu para fazer um super.
 
 Personagens saindo ficarão em cooldown, um personagem pode entrar independente do cooldown. Gasta 1 ou 3 barras dependendo de qual super você fez.
+
+# Dicas Gerais (Macetes Incríveis)
+## Melhor forma de dar Anti-Air
+
+## Como se defender
+
+## Como extender sua blockstring
+
+## A melhor forma de fazer seu time
