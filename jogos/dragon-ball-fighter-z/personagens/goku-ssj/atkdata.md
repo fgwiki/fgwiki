@@ -32,7 +32,7 @@
 ### j.S
 
 # Specials
-## 236L/M/H ~~Colocar nome do ataque do command list in-game ~~
+## 236L/M/H *Colocar nome do ataque do command list in-game*
 ### Light
 #### No chão
 
@@ -48,7 +48,7 @@
 
 #### No ar
 
-## 214L/M/H ~~Colocar nome do ataque do command list in-game ~~
+## 214L/M/H *Colocar nome do ataque do command list in-game*
 ### Light
 #### No chão
 
