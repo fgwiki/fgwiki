@@ -1,4 +1,4 @@
 <!-- TITLE: Goku - Geral -->
-<!-- SUBTITLE: A quick summary of Geral -->
+<!-- SUBTITLE: "*This'll be a good match.*" -->
 
 # Header
