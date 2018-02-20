@@ -1,5 +1,6 @@
 <!-- TITLE: Golpes e Combos -->
 
+[Voltar à Goku (Super Sayan) - Geral](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/geral)
 # Normais
 ## No chão
 ### 5L
