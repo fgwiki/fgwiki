@@ -1,6 +1,9 @@
 <!-- TITLE: Golpes e Combos -->
 
 # Normais
+### 5L
+
+#### 2L
 
 # Specials
 
