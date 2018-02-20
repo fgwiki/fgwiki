@@ -1,6 +1,8 @@
 <!-- TITLE: Goku - 3: Combos -->
-[Voltar à Goku (Super Sayan) - Geral](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/geral)
 
+[Voltar à Dragon Ball FighterZ - Home](/jogos/dragon-ball-fighter-z/home)
+[Voltar à Goku (Super Sayan) - Geral](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/geral)
+[Goku - Golpes](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/atkdata)
 # Sem Barra
 ### Auto Combo
 
