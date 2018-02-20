@@ -9,5 +9,6 @@ Son Goku, protagonista da série e artista marcial inigualável, é um personage
 ## Pontos fracos
 
 # Golpes & Combos
+[Goku (Super Sayan) - Golpes & Combos](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/geral)
 
 # Info Específicas de Matchup
