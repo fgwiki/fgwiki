@@ -34,23 +34,50 @@
 # Specials
 ## 236L/M/H ~~ Colocar nome do ataque = ao do command list in-game ~~
 ### Light
+#### No chão
+
+#### No ar
 
 ### Medium
+#### No chão
+
+#### No ar
 
 ### Heavy/EX
+#### No chão
+
+#### No ar
 
 ## 214L/M/H ~~ Colocar nome do ataque = ao do command list in-game ~~
 ### Light
+#### No chão
+
+#### No ar
 
 ### Medium
+#### No chão
+
+#### No ar
 
 ### Heavy
+#### No chão
+
+#### No ar
 
 ## Kamehameha - *236S*
+#### No chão
+
+#### No ar
 
 # Supers
 ### Level 1 - Kamehameha 
+#### No chão
+
+#### No ar
 
 ### Level 1 - Teleport Kamehameha
+#### No chão
+
+#### No ar
 
 ### Level 3 - SSJ3 Kamehameha
