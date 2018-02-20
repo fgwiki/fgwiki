@@ -10,5 +10,6 @@ Son Goku, protagonista da série e artista marcial inigualável, é um personage
 
 # Golpes & Combos
 [Goku (Super Sayan) - Golpes](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/atkdata)
+[Goku (Super Sayan) - Combos](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/combos)
 
 # Info Específicas de Matchup
