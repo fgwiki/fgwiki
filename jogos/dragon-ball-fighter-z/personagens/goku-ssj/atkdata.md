@@ -1,6 +1,8 @@
 <!-- TITLE: Goku - 2: Golpes e Framedata -->
 
+[Voltar à Dragon Ball FighterZ - Home](/jogos/dragon-ball-fighter-z/home)
 [Voltar à Goku (Super Sayan) - Geral](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/geral)
+[Goku - Combos](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/combos)
 # Normais
 ## No chão
 ### 5L
