@@ -1,4 +1,4 @@
-<!-- TITLE: Goku - Geral -->
+<!-- TITLE: Goku - 1: Geral -->
 <!-- SUBTITLE: "This'll be a good match." -->
 
 # Sobre o Personagem
