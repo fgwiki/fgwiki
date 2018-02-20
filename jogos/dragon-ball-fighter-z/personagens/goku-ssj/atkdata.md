@@ -60,7 +60,7 @@
 
 #### No ar
 
-### Heavy
+### Heavy/EX
 #### No chão
 
 #### No ar
