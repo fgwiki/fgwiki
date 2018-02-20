@@ -76,14 +76,14 @@
 # Assist
 
 # Supers
-### Level 1 - Kamehameha 
+## Level 1 - Kamehameha 
 #### No chão
 
 #### No ar
 
-### Level 1 - Teleport Kamehameha
+## Level 1 - Teleport Kamehameha
 #### No chão
 
 #### No ar
 
-### Level 3 - SSJ3 Kamehameha
+## Level 3 - SSJ3 Kamehameha
