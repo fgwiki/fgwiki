@@ -89,6 +89,12 @@ Personagens saindo ficarão em cooldown, um personagem pode entrar independente 
 ## Melhor forma de dar Anti-Air
 
 ## Como se defender
+### Defedendo Throws/Dragon Rush
+Para evitar de ser agarrado, basta aperta algum botão de ataque quando estiver prestes a levar o agarrão.
+Qualquer dos botões L/M/H/S servem, mas aparentemente a própria combinações de botões do Dragon Rush (L+M) tem uma janela bem maior para parar o Dragon Rush do adversário.
+
+Lembre-se de que Dragon Rush no ar não pega no personagem que está no chão.
+E os frames de início de um pulo tem invulnerabilidade contra agarrão também.
 
 ## Como extender sua blockstring
 
