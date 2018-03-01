@@ -22,11 +22,12 @@ A notação usada em todos os artigos relacionados a DBFZ será a Numérica:
 
 ![Notação em DBFZ](https://cdn.discordapp.com/attachments/377253177059442688/410130219316281366/dbfz_notation-01.png)
 
-## Super Dash
+## Termos únicos do jogo
+### Super Dash
 `(H+S, air OK)`
 Um dash que acompanha o inimigo. Invulnerável a Ki Blast, mas perde para Ki Beams e Explosões. On hit garante combo. Safe on block.
 
-## Dragon Rush
+### Dragon Rush
 `(L+M, air OK)`
 Dragon rush é o throw do jogo, ao acertar faz com que haja uma cutscene onde um dos personagens faz vários socos e chutes e logo em seguida um launcher.
 Não pode acertar os personagens durante o blockstun mas pode ser usado no meio do combo, mas ao contrário do dragon rush normal, o dragon rush feito em combos não dá launch.
@@ -34,18 +35,18 @@ Você pode dar tech em um dragon rush com qualquer botão.
 Quanto mais longe é feito, mais devagar é o dragon rush, variando de aproximadamente 21 frames, na maior distância até 13 frames, na menor distância. Além do startup há mais 4f da janela de tech.
 Apertando A1/A2 durante um Dragon Rush irá jogar o personagem do oponente para fora da tela e trazer outro dele (dependendo do botão de assist que foi usado). Similar ao Snapback na série Marvel vs Capcom.
 
-## Z Assist
+### Z Assist
 `(A1/A2, air OK)`
 Chama um membro do seu time para te ajudar durante a luta. Cada personagem tem seu ataque pré-definido.
 Há um cooldown quando você usa Z-Assist, um breve período onde o assist não pode ser chamado. A barra de cooldown só começa a se recuperar após o oponente sair do blockstun/hitstun.
 Você pode chamar assists durante seus ataques, você pode chamar mais de um assist por vez.
 Você não pode chamar um assist enquanto sofre um combo.
 
-## Ki Charge
+### Ki Charge
 `(L+S)`
 Deixa seu personagem imóvel enquanto carrega sua barra. O timer é parado durante o Ki Charge. Ki charge começa devagar e termina rápido.
 
-## Z Reflect
+### Z Reflect
 `(4+S)`
 | Ativo  | Recovery |
 |--------|----------|
@@ -53,7 +54,7 @@ Deixa seu personagem imóvel enquanto carrega sua barra. O timer é parado duran
 
 Similar ao pushblock da série Marvel vs Capcom. Caso algum ataque do oponente entre em contato com reflects seu oponente é empurrado para longe e você ganha uma quantidade considerável de barra. Durante um reflect você continua na mesma posição, só o oponente é jogado para longe. Reflects são capaz de refletir tanto highs como lows.
 
-## Sparking Blast
+### Sparking Blast
 `(L+M+H+S, air OK)`
 Faz um movimento similar ao burst de Guilty Gear/Blazblue, porém, ao contrário do Burst, Sparking Blast é uma mecânica apenas ofensiva, não pode ser usado para quebrar combos.
 
@@ -71,19 +72,30 @@ Sparking Blast aumenta sua força e suas opções de cancels por um tempo limita
 - Segure M+H ou seu atalho de Vanish para teleportar atrás de seu oponente sem atacar, ascendendo levemente podendo defender ou atacar instantaneamente;
 - O Cooldown de seus Assists irá diminuir até mesmo durante blockstun/hitstun de seu oponente.
 
-## Vanish
+### Vanish
 `(M+H, air OK)`
 Custa 1 barra. Teleporta atrás do seu oponente e ataca. Se feito durante o hitstun de algum golpe, cancelando-o, causa wallbounce. Se for feito no neutro apenas lança o oponente para longe. Durante o Sparking Blast segure M+H para teleportar atrás do seu oponente sem atacar e recuperar instantâneamente.
 
-## Guard Cancel Change
+### Guard Cancel Change
 `(6+A1/A2 durante blockstun)`
 Gasta 1 barra. Troca de personagem. Ao usar o guard cancel change você não pode chamar assists por um tempo. Se você não tiver outros personagens vivos, o guard cancel funcionará como um vanish.
 
-## Ultimate Z Change
+### Ultimate Z Change
 `(A1/A2 ou 4+A1/A2 durante um super ou 41236+A1/A2 ou 63214+A1/A2)`
 Similar ao DHC da série Marvel vs Capcom. Chama outro personagem do seu time para dar um Super. Pode ser feito durante um super do seu personagem ativo ou, se feito com 41236+A1/A2 ou 63214+A1/A2, Simplesmente chama outro personagem seu para fazer um super.
 
 Personagens saindo ficarão em cooldown, um personagem pode entrar independente do cooldown. Gasta 1 ou 3 barras dependendo de qual super você fez.
+
+## Termos gerais de jogo de luta 2D
+### Normals, Specials, Supers, Command Normals, Command Specials
+
+### High, Low, Overhead e OTG
+
+### Framedata, Start-up, Active e Recovery frames, "on Hit" e "on Block"
+
+### Neutro e Pressão
+
+### Okizeme
 
 # Dicas Gerais (Macetes Incríveis)
 ## Melhor forma de dar Anti-Air
