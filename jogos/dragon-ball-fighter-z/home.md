@@ -24,7 +24,16 @@ A notação usada em todos os artigos relacionados a DBFZ será a Numérica:
 
 
 ## Termos gerais de jogo de luta 2D
-### Normals, Specials, Supers, Command Normals, Command Specials
+### Normals, Specials, Supers, Command Normals, Grab, Command Grab e EX Specials
+* Normals são os ataques básicos do personagem, como 5L que normalmente é um soco simples;
+* Specials são os golpes únicos de cada personagem feito ao dar um comando especifico (exemplo popular: apertando 236 + soco para dar Hadouken), normalmente consegue ser combinado depois de algum Normal para dar mais dano (o famoso combo);
+* Super é o "golpe secreto" do personagem. É normalmente executado ao fazer um comando mais complexo que um Special (no caso de Street Fighter, seria 236236 + soco, mas também pode ser relativamente simples que nem no Dragon Ball Fighter Z que é somente 236 + dois botões de ataque). Normalmente possui uma barra dedicada que só possibilita o Super ser executado caso ela esteja cheia;
+* Command Normals são ataque simples normalmente específicos de cada personagem, como *6 + soco* para dar golpe Overhead;
+* Grab é o agarrão. Dependendo do jogo pode ser combinação de dois botões ou apenas apertando 6 + botão forte para agarrar o oponente. Ferramente extremamanete útil contra algum oponente que está defendendo tudo que você faz, e normalmente defendível ao aperta os botões de Grab ao quase mesmo tempo que a pessoa que tentou dar ou pulando fora do alcance do grab caso esse só pegue em oponente que esteja no chão;
+* Command Grab é a versão "Special" do Grab normal, que é feito somente quando vc faz algum comando especifico. Diferente do Grab normal, esse tipo de grab só dá para escapar pulando para fora do alcance. Mas cuidado porque há personagens que tem Command Grabs que só pegam em oponentes no chão ou só em oponentes no ar.
+* EX Specials são uma versão mais forte dos Specials. Normalmente custando parte da barra de Super como efeito, e tão efetivo quanto usar um Super caso você esteja em dia com os combos do seu personagem.
+
+### Combo
 
 ### High, Low, Overhead e OTG
 
