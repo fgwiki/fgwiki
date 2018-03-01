@@ -3,6 +3,7 @@
 # Termos gerais de jogo de luta 2D
 ## Normals, Specials, Supers, Command Normals, Grab, Command Grab e EX Specials
 * **Normals** são os ataques básicos do personagem, como 5L que normalmente é um soco simples;
+* **Jumping** para quem não sabe inglês, significa "pulando";
 * **Specials** são os golpes únicos de cada personagem feito ao dar um comando especifico (exemplo popular: apertando 236 + soco para dar Hadouken), normalmente consegue ser combinado depois de algum Normal para dar mais dano (o famoso combo);
 * **Super** é o "golpe secreto" do personagem. É normalmente executado ao fazer um comando mais complexo que um Special (no caso de Street Fighter, seria 236236 + soco, mas também pode ser relativamente simples que nem no Dragon Ball Fighter Z que é somente 236 + dois botões de ataque). Normalmente possui uma barra dedicada que só possibilita o Super ser executado caso ela esteja cheia;
 * **Command Normals** são ataque simples normalmente específicos de cada personagem, como *6 + soco* para dar golpe Overhead;
@@ -15,7 +16,7 @@
 High e Low são referentes à altura dos golpes: 
 * Golpes **High** acertam personagens em pé e na maioria das vezes personagens agachados (depende da altura do oponente) mas podem ser bloqueados tanto em pé quanto agachado;
 * Golpes **Low** acertam inimigos que estavam bloqueando em pé mas são bloqueados por inimigos defendendo agachado;
-* **Overhead** são golpes normalmente bem lentos mas acertam inimigos que estavam bloqueando low;
+* **Overhead** (em sigla: OH) são golpes normalmente bem lentos mas acertam inimigos que estavam bloqueando low;
 * Golpes **OTG** (On the Ground) são golpes que acertam oponentes caídos no chão.
 
 ## Framedata e Detalhes
@@ -42,5 +43,24 @@ Combos são uma série de ataques seguidos que o oponente não consegue interrom
 
 
 ## Neutro e Pressão
+* Mix-up:
+* Okizeme:
 
-## Okizeme
+## Option Select
+
+## Fuzzies
+Termos de fuzzies ficaram meio que misturados por erro de comunicação na internet, portanto vou organizar da melhor forma que encontrei. (Obrigado Lorem e Ryuzlin pela colaboração).
+
+### Fuzzy Guard
+Técnica defensiva e um OS. Quando um ataque do oponente pode ser seguido de um outro ataque low ou overhead, esses provavelmente vão ter startups diferentes. Para defender isso vc pode fazer o **Fuzzy Guard**: Defender agachado até um pouco antes de acaba o start-up frames do OH, defende em pé por alguns instantes, e depois defende agachado de novo.
+Exemplo: Se um personagem tem followup de um ataque que é um low 9f start-up e um OH 20f de start-up, vc defende os 18 primeiros frames agachado, levanto por um breve tempo e agacha de novo.
+
+Para vencer esse tipo de defesa, o oponente pode atrasar um pouco o golpe low dele.
+
+### Fuzzy Jump
+Similar ao Fuzzy Guard, mas ao inves de High/Low você vai fazer Low/Jump. Você bloqueia os primeiros frames agachado, depois pula e volta rapidamente a defende low. Fuzzy Jump funciona mais contra personagens que tem mix-up low/grab.
+
+### Fuzzy Attack / F-Shiki
+Isso daqui é a coisa que confunde muita gente, mais porque muita gente chama isso de Fuzzy Guard ou simplesmente de Fuzzy no ocidente, e no Japão é chamado de F-Shiki ou um dos outros 10 milhões de termos. Vo usar Fuzzy Attack porque, diferente dos outros dois, esse é um técnica ofensiva.
+**Fuzzy Attack** consiste em dar um ataque que prende o oponente no blockstun em pé (normalmente um ataque pulando), e logo em seguida dar um ataque Overhead (novamente normalmente outro jumping attack) para acerta o oponente.
+Se o ataque OH acertar o oponente que estava preso em blockstun em pé, é porque o Fuzzy Attack funcionou. Isso funciona porque o oponente defendeu agachado depois do primeiro ataque:  Enquanto ele estava no blockstun em pé, ele apertou baixo+trás para bloquear porque achou que você ia dar um ataque low, mas como o blockstun não permitiu que a animação do personagem mudasse de posição, ele leva um OH que possivelmente não poderia levar porque só acertaria no personagem com altura em pé.
