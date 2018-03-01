@@ -97,10 +97,13 @@ Combos são uma série de ataques seguidos que o oponente não consegue interrom
 * **Target Combo**: Execução de Normals específica em que cada um se "cancela" no outro.
 
 ## Neutro e Pressão
-### Neutral Game:
+### Neutral Game
 
 
-### Okizeme:
+### Blockstring
+
+
+### Okizeme
 
 
 ## Ataque
