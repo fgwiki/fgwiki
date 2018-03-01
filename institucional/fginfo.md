@@ -98,13 +98,19 @@ Combos são uma série de ataques seguidos que o oponente não consegue interrom
 
 ## Neutro e Pressão
 ### Neutral Game
+Jogo neutro se refere a um ponto do jogo onde ambos jogadores não tem nenhuma vantagem sobre o outro estão procurando conseguir qualquer tipo de vantagem.
 
+**Alguns exemplos de situações vantajosas:**
+    * Fazer seu oponente bloquear algo positivo on block
+    * Acertar um golpe
+    * Conseguir um knockdown
+    * Levar seu oponente pro corner são exemplos de situações vantajosas.
 
 ### Blockstring
 
 
 ### Okizeme
-
+Refere-se a atacar seu oponente enquanto ele está levantando de um knockdown.
 
 ### Reversal
 
