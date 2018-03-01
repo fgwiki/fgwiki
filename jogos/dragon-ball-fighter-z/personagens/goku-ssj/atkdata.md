@@ -18,7 +18,7 @@
 
 | Frame | Golpe | Dano | Start-up | Active | Recovery | on Hit | on Block |
 |---|---|---|---|---|---|---|---|
-| [Imagem] | **5L** | 20 | 7f | 4f | 2f | +10 | +8 |
+| ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L") | **5L** | 20 | 7f | 4f | 2f | +10 | +8 |
 
 ## No ar
 ### j.L
