@@ -29,7 +29,7 @@ Alguns jogos possuem pesos diferentes pra tipos de chute e soco, alguns apresent
 | MK | Medium Kick | Chute Médio |
 | HK | Heavy Kick | Chute Forte |
 | PPP | 3x Punches | Os 3 botões de Soco |
-| KKK | 3x Kick | Os 3 bptões de Chute |
+| KKK | 3x Kick | Os 3 botões de Chute |
 
 Tenha em mente que nem todos os jogos usam os mesmos termos, por exemplo Guilty Gear tem S = Slash e H = Heavy Slash, e outros jogos usam até A, B, C e D para os botões como os jogos da SNK.
 
