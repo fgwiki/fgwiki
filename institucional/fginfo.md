@@ -62,17 +62,19 @@ Tenha em mente que nem todos os jogos usam os mesmos termos, por exemplo Guilty 
 * **Specials** são os golpes únicos de cada personagem feito ao dar um comando especifico (exemplo popular: apertando 236 + P para dar Hadouken), normalmente consegue ser combinado depois de algum Normal para dar mais dano (o famoso combo);
 * **Super** é o "golpe secreto" do personagem. É normalmente executado ao fazer um comando mais complexo que um Special (no caso de Street Fighter, seria 236236 + P, mas também pode ser relativamente simples que nem no Dragon Ball Fighter Z que é somente 236 + dois botões de ataque). Normalmente possui uma barra dedicada que só possibilita o Super ser executado caso ela esteja cheia;
 * **Command Normals** são ataque simples normalmente específicos de cada personagem, como *6 + soco* para dar golpe Overhead;
-* **Grab** é o agarrão. Dependendo do jogo pode ser combinação de dois botões ou apenas apertando 6 + H para agarrar o oponente. Ferramente extremamanete útil contra algum oponente que está defendendo tudo que você faz, e normalmente defendível ao aperta os botões de Grab ao quase mesmo tempo que a pessoa que tentou dar ou pulando fora do alcance do grab caso esse só pegue em oponente que esteja no chão. Defender o agarrão dando o input de agarrão é chamando de Tech;
+* **Grab** é o agarrão. Dependendo do jogo pode ser combinação de dois botões ou apenas apertando 6 + botão forte para agarrar o oponente. Ferramenta extremamente útil contra algum oponente que está defendendo tudo que você faz. Para lidar com grab, você pode dar tech, que se refere ao ato de tentar dar grab ao mesmo tempo que seu oponente (ou prever um grab com antecedência). Grabs só funcionam contra oponentes que estão no chão, oponentes *airborne* (no ar) ou durante blockstun estão imunes a grabs. Pulos e backdashes são opções bem comuns para escaparem de throws.
+O ato de dar um grab ao mesmo tempo que seu oponente é chamado de **tech**;
 * **Command Grab** é a versão "Special" do Grab normal, que é feito somente quando vc faz algum comando especifico. Diferente do Grab normal, esse tipo de grab só dá para escapar pulando para fora do alcance. Mas cuidado porque há personagens que tem Command Grabs que só pegam em oponentes no chão ou só em oponentes no ar.
 * **EX Specials** são uma versão mais forte dos Specials. Normalmente custando parte da barra de Super como efeito, e tão efetivo quanto usar um Super caso você esteja em dia com os combos do seu personagem.
 
 
 ## High, Low, Overhead e OTG
 High e Low são referentes à altura dos golpes: 
-* Golpes **High** acertam personagens em pé e na maioria das vezes personagens agachados (depende da altura do oponente) mas podem ser bloqueados tanto em pé quanto agachado;
-* Golpes **Low** acertam inimigos que estavam bloqueando em pé mas são bloqueados por inimigos defendendo agachado;
+* Golpes **High** Golpes que precisam ser defendidos em pé. Normalmente vem a partir de *jump-ins* (pulos) ou overheads;
+* Golpes **Mid**: Golpes que podem ser defendidos tanto em pé quanto agachado;
+* Golpes **Low** Golpes que precisam ser defendidos agachados. Normalmente estes golpes são feitos agachados, com algumas exceções. Em alguns jogos existem golpes low que são feitos com personagem em pé;
 * **Overhead** (em sigla: OH) são golpes normalmente bem lentos mas acertam inimigos que estavam bloqueando low;
-* Golpes **OTG** (On the Ground) são golpes que acertam oponentes caídos no chão.
+* Golpes **OTG** (On the Ground) são golpes que acertam oponentes caídos no chão. Não confundir com *okizeme*.
 
 ## Framedata e Detalhes
 Framedata é a informação geral dos golpes num jogo de luta, talvez o aspecto mais importante nele. Dele você ve quais as possiblidades que um personagem oferece em termos de ataque e defesa: o quão rápido um golpe é (que é visto em quantidade de frames por segundo), se ele consegue combar em outro ataque, qual o alcance desse ataque e entre outros. Há varios tipos de elementos de framedata pra cada golpe, que são:
@@ -90,11 +92,10 @@ Framedata é a informação geral dos golpes num jogo de luta, talvez o aspecto 
 
 
 ## Combo
-Combos são uma série de ataques seguidos que o oponente não consegue interromper apenas bloqueando (se ele fez isso é porque vc erro o combo). Há diversos tipos de combos em jogos diferentes:
-* **Combo Links**: Realizado quando você conecta golpes um no outro porque a framedata possibilita tal. Tem execução mais restritiva e costuma aparecer em jogos mais velhos;
-* **Chain Combo**: Combo que tem timing mais leniente que Combo Link e é executado geralmente com uma série de botões genérica (por exemplo: L > L > M > M > 2H do DBFZ)
-* **Cancels**: Quando o recovery de algum ataque é cancelado e outro golpe sai imedianatamente;
-* **Target Combo**: Execução de Normals específica em que cada um se "cancela" no outro.
+Combos são uma série de ataques seguidos que o oponente não consegue interromper apenas bloqueando (se ele fez isso é porque vc errou o combo). Há diversos tipos de combos em jogos diferentes:
+* **Combo Links**: Realizado quando você conecta golpes um no outro porque a framedata possibilita tal. Tem execução mais restritiva e costuma aparecer em jogos mais velhos. Exemplo de Combo Link: Um golpe é +5 on hit, posso encaixar um golpe de até 5f de startup.
+* **Chain Combo**: Combo que tem timing mais leniente que Combo Link e é executado geralmente com uma série de botões genérica (por exemplo: L > L > M > M > 2H do DBFZ) Chain combos cancelam um botão em outro logo após conectar com o oponente. Também conhecidos como **Target Combos**, **Gatlings** e **Magic Series**;
+* **Cancels**: Quando o recovery de algum ataque é cancelado e outro golpe sai imedianatamente.
 
 ## Neutro e Pressão
 ### Neutral Game
