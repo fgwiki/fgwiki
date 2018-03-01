@@ -77,7 +77,11 @@ High e Low são referentes à altura dos golpes:
 * Golpes **OTG** (On the Ground) são golpes que acertam oponentes caídos no chão. Não confundir com *okizeme*.
 
 ## Framedata e Detalhes
-Framedata é a informação geral dos golpes num jogo de luta, talvez o aspecto mais importante nele. Dele você ve quais as possiblidades que um personagem oferece em termos de ataque e defesa: o quão rápido um golpe é (que é visto em quantidade de frames por segundo), se ele consegue combar em outro ataque, qual o alcance desse ataque e entre outros. Há varios tipos de elementos de framedata pra cada golpe, que são:
+Framedata são informações gerais sobre os golpes em um jogo de luta. Mais especificamente sobre *velocidade* e *duração dos golpes* . O quanto um golpe demora para começar, quanto tempo ele pode acertar o oponente e quanto tempo demora para voltar ao *neutro* . O tempo é denotado em *frames* que se refere aos quadros de animação, maioria dos jogos de luta rodam a 60 quadros por segundo, fazendo com que cada frame seja aproximadamente 16 milissegundos.
++
++Você não precisa decorar framedata, você também não precisa se preocupar com milissegundos. Framedata é para ser consultada durante o seu treino e para poupar o tempo que você gastaria testando coisas. É informação valiosa sintetizada de uma maneira muito rápida de digerir.
++
++Framedata normalmente consiste das seguintes informações:
 * **Start-Up**: O tempo que a animação de um ataque leva até chegar no Active frames. É possivel que seu ataque tenha sido interrompido aqui se seu oponente conseguiu bater antes que seu golpe saísse;
 * **Active**: O momento em que o golpe "bate" no oponente. Os frames ativos sempre conecta no oponente no primeiro possivel;
 * **Recovery**: O tempo de animação em que o golpe termina até o personagem volta ao estado neutro. É a parte do ataque que é cancelado em combos com cancel e também é o momento que seu personagem fica vulnerável caso o oponente tenha bloqueado um golpe seu com muito recovery frames;
