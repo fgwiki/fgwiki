@@ -89,23 +89,38 @@ Framedata normalmente consiste das seguintes informações:
 * **Start-Up**: O tempo que a animação de um ataque leva até chegar no Active frames. É possivel que seu ataque tenha sido interrompido aqui se seu oponente conseguiu bater antes que seu golpe saísse;
 *Um golpe que começa em 3f é mais rápido do que um que começa em 7f*
 
+
 * **Active**: O momento em que o golpe "bate" no oponente. Os frames ativos sempre conecta no oponente no primeiro possivel;
 *Meu golpe tem 4f ativo, significa que ele fica ali,na tela, acertando durante 4f.*
+
 
 * **Recovery**: O tempo de animação em que o golpe termina até o personagem volta ao estado neutro. É a parte do ataque que é cancelado em combos com cancel e também é o momento que seu personagem fica vulnerável caso o oponente tenha bloqueado um golpe seu com muito recovery frames;
 *Golpes com recovery muito alto podem ser punidos porque meu personagem demora a voltar a defender.*
 
+
 * **on Hit**: Quantidade de tempo em frames de diferença entre você e o oponente caso o golpe tenha conectado nele;
 *Se um golpe é +7 on hit, você recupera 7 frames antes do seu oponente. Nesse caso posso combar com um golpe de até 7 frames de startup. *
+
 
 * **on Block**: Quantidade de tempo em frames de diferença entre você e o oponente caso ele tenha defendido um ataque;
 *Dei um golpe que é -5 on block na defesa do meu oponente. Eu posso levar qualquer golpe de até 5f de startup. Pois ele recupera o controle do personagem 5f antes de mim.*
 
+
 * **Positivo e Negativo**: Caso seu ataque tenha acertado o seu oponente ou ele tenha bloqueado, há uma diferença de tempo entre vocês dois até que consigam realizar qualquer outra ação. Caso você consiga agir antes que seu oponente, você estava em vantagem de frames positiva (que seria dito como exemplo: +10 on Hit ou +2 on Block), e caso ele consiga agir antes de você, você estaria em Negativo (por exemplo -4 on Block);
+
+
 * **Hitstun**: Animação que seu personagem está tomando dano;
+
+
 * **Blockstun**: Animação que seu personagem fica quando defendeu um golpe;
+
+
 * **Hitbox**: Caixa invisível para detecção de colisão de um golpe. Se a Hitbox colidir com uma Hitbox, o jogo avalia que o golpe acertou o oponente. O tempo que a Hitbox de um golpe fica ativa é o que referimos como *Active Frames* (Frames ativos);
+
+
 * **Hurtbox**: Caixa invisível de detecção de colisão do seu personagem em estado neutro. Se a hitbox de um golpe conectar na sua Hurtbox, o joga avalia que você levou dano e vai ficar em Hitstun.
+
+
 * **iFrames**: Também conhecidos como *Invencibility/Invulnerability Frames* (ou frames de invencibilidade). São literalmente golpes que não podem ser atingidos, justamente pela __ausência de hurtbox__.
 *Alguns golpes como os shoryukens de Street Fighter são imunes a golpes, pois eles não tem hurtbox durante um tempo em suas animações, o que faz com que eles tenham muitos iframes.*
 
