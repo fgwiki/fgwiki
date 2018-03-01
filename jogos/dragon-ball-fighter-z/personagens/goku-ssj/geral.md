@@ -1,5 +1,5 @@
 <!-- TITLE: Goku - 1: Geral -->
-<!-- SUBTITLE: "This'll be a good match." - Goku, Son. (1986 ~ 2018, antes de enfrentar um time Cell/A.Gohan/Vegeta) -->
+<!-- SUBTITLE: "This'll be a good match." -->
 
 [Voltar à Dragon Ball FighterZ - Home](/jogos/dragon-ball-fighter-z/home)
 # Sobre o Personagem
