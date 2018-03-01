@@ -121,15 +121,18 @@ Combos são uma série de ataques seguidos que o oponente não consegue interrom
 * **Punish**:
 * **Confirm**:
 * **Counter Hit**:
+* **Guard Break**:
+* **Unblockable**:
 
 ## Defesa
-* **Block**: A simples defesa. Grande maioria dos jogos 2D é simplesmente segurar para trás ou trás+baixo.
+* **Block**: A simples defesa. Grande maioria dos jogos 2D é simplesmente segurar para trás ou trás+baixo. Normalmente vc leva um dano reduzido ou tipo de dano alternativo quando você defende um Special ou Super dessa forma.
 * **Pushblock**: Alguns jogos possuem mecânicas que permite que o ataque do oponente seja ainda mais afastado caso você bloqueie e aperte junto uma combinação de botões. Isso se chama Pushblock, mas também pode possuir nomes próprios dependendo do jogo (Advancing Guard no Marvel vs Capcom 3, Faultless Defense no Guilty Gear, Reflect no Dragon Ball Fighter Z)
 * **Chicken Block**: Jogos que tem um jogo aéreo mais intenso normalmente te dá possibilidade de bloquear no ar. Chicken Block é rapidamente pular para trás e bloquear para evitar mix-ups intensivos no chão e sair do blockstun mais rápido.
 * **Burst**: Alguns jogos que possuem pressão intensa dão a possibilidade do jogador interromper a ofensiva do adversário. Burst é usado para afastar o oponente numa explosão que da pouco dano ma amnda ele para o outro lado da tela, e assim voltando ao neutral game.
-* **Guard Cancel**:
-* **Reversal**:
-* **Parry**:
+* **Guard Cancel**: Alguns jogos também oferecem uma forma mais simples de virar a mesa. Quando vc está em blockstun, você pode efetua algum comando que canela seu blockstun e dá um golpe que empurra seu oponente. Caso mais famoso disso é o Alpha Counter da série Street Fighter Alpha.
+* **Reversal**: O famoso Shoryuken ou Super que você dá quando tá caído. É um golpe de desespero que você aposta tudo pra evitar que o oponente mantenha o ataque. O problema é que a punição é severa caso ele defenda isso.
+* **Parry**: É o tipo de "defesa absoluta instantânea", que não recebe os danos que o block normal recebe e ainda dá oportunidade de você começar a sua pressão dependendo do ataque que foi "parryado". Nem todos os jogos tem essa mecânica e ficou extremamente popular depois de alguns anos como uma mecânica de alto level, apesar de desequilibrar os jogos que tem tal mecânica de certa maneira.
+* **Armor**: Personagens mais pesados possívelmente tem um ou mais golpes que não recebem hitstun por um hit (ou mais) e permitem dar alto dano de uma vez só. Esses são golpes com "armadura", na qual normalmente é referido a quantidade de golpes que o golpe aguenta até ser interrompido (exemplo: golpe com 2 de armor).
 
 ## Option Select
 
@@ -146,6 +149,6 @@ Para vencer esse tipo de defesa, o oponente pode atrasar um pouco o golpe low de
 Similar ao Fuzzy Guard, mas ao inves de High/Low você vai fazer Low/Jump. Você bloqueia os primeiros frames agachado, depois pula e volta rapidamente a defende low. Fuzzy Jump funciona mais contra personagens que tem mix-up low/grab.
 
 ### Fuzzy Attack / F-Shiki
-Isso daqui é a coisa que confunde muita gente, mais porque muita gente chama isso de Fuzzy Guard ou simplesmente de Fuzzy no ocidente, e no Japão é chamado de F-Shiki ou um dos outros 10 milhões de termos. Vo usar Fuzzy Attack porque, diferente dos outros dois, esse é um técnica ofensiva.
+Isso daqui é a coisa que confunde muita gente, mais porque muita gente chama isso de Fuzzy Guard ou simplesmente de Fuzzy no ocidente, e no Japão é chamado de F-Shiki ou um dos outros 10 milhões de termos. Vou usar Fuzzy Attack porque, diferente dos outros dois, esse é um técnica ofensiva.
 **Fuzzy Attack** consiste em dar um ataque que prende o oponente no blockstun em pé (normalmente um ataque pulando), e logo em seguida dar um ataque Overhead (novamente normalmente outro jumping attack) para acerta o oponente.
 Se o ataque OH acertar o oponente que estava preso em blockstun em pé, é porque o Fuzzy Attack funcionou. Isso funciona porque o oponente defendeu agachado depois do primeiro ataque:  Enquanto ele estava no blockstun em pé, ele apertou baixo+trás para bloquear porque achou que você ia dar um ataque low, mas como o blockstun não permitiu que a animação do personagem mudasse de posição, ele leva um OH que possivelmente não poderia levar porque só acertaria no personagem com altura em pé.
