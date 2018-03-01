@@ -1,7 +1,7 @@
 <!-- TITLE: Dragon Ball Fighter Z -->
 <!-- SUBTITLE:-->
 ![Dragon Ball FighterZ](http://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg?t=1517353014)
-Dragon Ball FighterZ é um jogo 3v3 desenvolvido pela Arc System Works baseado na franquia Dragon Ball. O jogo utiliza o mesmo estilo visual de Guilty gear Xrd, onde modelos 3D tentam imitar ao máximo modelos 2D. O jogo roda na Unreal Engine 4.
+Dragon Ball FighterZ (em sigla: DBFZ) é um jogo 3v3 desenvolvido pela Arc System Works baseado na franquia Dragon Ball. O jogo utiliza o mesmo estilo visual de Guilty gear Xrd, onde modelos 3D tentam imitar ao máximo visual e métodos de animação tradicional. O jogo roda na Unreal Engine 4.
 
 ---
 # Lista de Personagens
@@ -33,11 +33,18 @@ A notação usada em todos os artigos relacionados a DBFZ será a Numérica:
 * Command Grab é a versão "Special" do Grab normal, que é feito somente quando vc faz algum comando especifico. Diferente do Grab normal, esse tipo de grab só dá para escapar pulando para fora do alcance. Mas cuidado porque há personagens que tem Command Grabs que só pegam em oponentes no chão ou só em oponentes no ar.
 * EX Specials são uma versão mais forte dos Specials. Normalmente custando parte da barra de Super como efeito, e tão efetivo quanto usar um Super caso você esteja em dia com os combos do seu personagem.
 
-### Combo
 
 ### High, Low, Overhead e OTG
 
 ### Framedata, Start-up, Active e Recovery frames, "on Hit" e "on Block"
+
+### Combo
+Combos são uma série de ataques seguidos que o oponente não consegue interromper apenas bloqueando (se ele fez isso é porque vc erro o combo). Há diversos tipos de combos em jogos diferentes:
+* Combo Links: Realizado quando você conecta golpes um no outro porque a framedata possibilita tal. Tem execução mais restritiva e costuma aparecer em jogos mais velhos;
+* Chain Combo: Combo que tem timing mais leniente que Combo Link e é executado geralmente com uma série de botões genérica (por exemplo: L > L > M > M > 2H do DBFZ)
+* Cancels: Quando o recovery de algum ataque é cancelado e outro golpe sai imedianatamente;
+* Target Combo: Execução de Normals específica em que cada um se "cancela" no outro.
+
 
 ### Neutro e Pressão
 
