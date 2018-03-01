@@ -1,4 +1,4 @@
-<!-- TITLE: Mecânicas gerais em jogos de Luta -->
+<!-- TITLE: Informação geral em jogos de Luta -->
 
 # Termos gerais de jogo de luta 2D
 ## Normals, Specials, Supers, Command Normals, Grab, Command Grab e EX Specials
