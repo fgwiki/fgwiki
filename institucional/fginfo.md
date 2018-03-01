@@ -102,7 +102,7 @@ Framedata normalmente consiste das seguintes informações:
 
 
 * **on Hit**: Quantidade de tempo em frames de diferença entre você e o oponente caso o golpe tenha conectado nele;
-*Se um golpe é +7 on hit, você recupera 7 frames antes do seu oponente. Nesse caso posso combar com um golpe de até 7 frames de startup. *
+*Se um golpe é +7 on hit, você recupera 7 frames antes do seu oponente. Nesse caso posso combar com um golpe de até 7 frames de startup.*
 
 
 * **on Block**: Quantidade de tempo em frames de diferença entre você e o oponente caso ele tenha defendido um ataque;
