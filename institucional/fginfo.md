@@ -11,7 +11,7 @@ Notações normalmente depende de cada jogo, mas sempre há termos mais genéric
 | 4 | 5 | 6 |
 | 1 | 2 | 3 |
 
-O método de referência de direção mais comum entre os jogadores japoneses, pode parecer um tanto confuso no começo mas logo fica facil de reconhecer as direções num piscar de olhos. Ele assume sua osição de Player 1, portanto fica: 4 = Trás, 6 = Frente, 2 = Baixo, 8 = Cima e 5 = Nenhuma direção sendo pressionada.
+O método de referência de direção mais comum entre os jogadores japoneses, pode parecer um tanto confuso no começo mas logo fica facil de reconhecer as direções num piscar de olhos. Ele assume sua posição de Player 1, portanto fica: 4 = Trás, 6 = Frente, 2 = Baixo, 8 = Cima e 5 = Nenhuma direção sendo pressionada.
 
 ### Botões de Ataque
 Alguns jogos possuem pesos diferentes pra tipos de chute e soco, alguns apresentam apenas pesos, portanto eu vou colocar siglas e algumas das possíveis combinações:
