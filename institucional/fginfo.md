@@ -1,8 +1,40 @@
 <!-- TITLE: Informação geral em jogos de Luta -->
 
 # Termos gerais de jogo de luta 2D
+## Notações
+Notações normalmente depende de cada jogo, mas sempre há termos mais genéricos que possívelmente todo mundo consegue entender cedo ou tarde.
+
+### Notação Numérica
+|  |  |  |
+|---|---|---|
+| 7 | 8 | 9 |
+| 4 | 5 | 6 |
+| 1 | 2 | 3 |
+
+O método de referência de direção mais comum entre os jogadores japoneses, pode parecer um tanto confuso no começo mas logo fica facil de reconhecer as direções num piscar de olhos. Ele assume sua osição de Player 1, porntanto fica: 4 = Trás, 6 = Frente, 2 = Baixo, 8 = Cima e 5 = Nenhuma direção sendo pressionada.
+
+### Botões de Ataque
+Alguns jogos possuem pesos diferentes pra tipos de chute e soco, alguns apresentam apenas pesos, portanto eu vou colocar siglas e algumas das possíveis combinações:
+
+| Sigla | Nome Inglês | Tradução |
+|---|---|---|
+| L | Light | Fraco |
+| M | Medium | Médio |
+| H | Heavy | Forte |
+| S | Special | Especial |
+| LP | Light Punch | Soco Fraco |
+| MP | Medium Punch | Soco Médio |
+| HP | Heavy Punch | Soco Forte |
+| LK | Light Kick | Chute Fraco |
+| MK | Medium Kick | Chute Médio |
+| HK | Heavy Kick | Chute Forte |
+| PPP | 3x Punches | Os 3 botões de Soco |
+| KKK | 3x Kick | Os 3 bptões de Chute |
+
+Tenha em mente que nem todos os jogos usam os mesmos termos, por exemplo Guilty Gear tem S = Slash e H = Heavy Slash, e outros jogos usam até A, B, C e D para os botões como os jogos da SNK.
+
 ## Normals, Specials, Supers, Command Normals, Grab, Command Grab e EX Specials
-* **Normals** são os ataques básicos do personagem, como 5L que normalmente é um soco simples;
+* **Normals** são os ataques básicos do personagem, como 5P que normalmente é um soco simples;
 * **Jumping** para quem não sabe inglês, significa "pulando";
 * **Specials** são os golpes únicos de cada personagem feito ao dar um comando especifico (exemplo popular: apertando 236 + soco para dar Hadouken), normalmente consegue ser combinado depois de algum Normal para dar mais dano (o famoso combo);
 * **Super** é o "golpe secreto" do personagem. É normalmente executado ao fazer um comando mais complexo que um Special (no caso de Street Fighter, seria 236236 + soco, mas também pode ser relativamente simples que nem no Dragon Ball Fighter Z que é somente 236 + dois botões de ataque). Normalmente possui uma barra dedicada que só possibilita o Super ser executado caso ela esteja cheia;
