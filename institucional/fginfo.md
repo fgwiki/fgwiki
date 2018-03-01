@@ -41,10 +41,19 @@ Combos são uma série de ataques seguidos que o oponente não consegue interrom
 * **Cancels**: Quando o recovery de algum ataque é cancelado e outro golpe sai imedianatamente;
 * **Target Combo**: Execução de Normals específica em que cada um se "cancela" no outro.
 
-
 ## Neutro e Pressão
+* Neutral Game:
 * Mix-up:
 * Okizeme:
+
+## Defesa
+* **Block**: A simples defesa. Grande maioria dos jogos 2D é simplesmente segurar para trás ou trás+baixo.
+* **Pushblock**: Alguns jogos possuem mecânicas que permite que o ataque do oponente seja ainda mais afastado caso você bloqueie e aperte junto uma combinação de botões. Isso se chama Pushblock, mas também pode possuir nomes próprios dependendo do jogo (Advancing Guard no Marvel vs Capcom 3, Faultless Defense no Guilty Gear, Reflect no Dragon Ball Fighter Z)
+* **Chicken Block**: Jogos que tem um jogo aéreo mais intenso normalmente te dá possibilidade de bloquear no ar. Chicken Block é rapidamente pular para trás e bloquear para evitar mix-ups intensivos no chão e sair do blockstun mais rápido.
+* **Burst**: Alguns jogos que possuem pressão intensa dão a possibilidade do jogador interromper a ofensiva do adversário. Burst é usado para afastar o oponente numa explosão que da pouco dano ma amnda ele para o outro lado da tela, e assim voltando ao neutral game.
+* **Guard Cancel**:
+* **Reversal**:
+* **Parry**:
 
 ## Option Select
 
