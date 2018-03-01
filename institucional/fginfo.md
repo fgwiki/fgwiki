@@ -2,55 +2,104 @@
 
 # Termos gerais de jogo de luta 2D
 ## Normals, Specials, Supers, Command Normals, Grab, Command Grab e EX Specials
-* **Normals** são os ataques básicos do personagem, como 5L que normalmente é um soco simples;
-* **Jumping** para quem não sabe inglês, significa "pulando";
-* **Specials** são os golpes únicos de cada personagem feito ao dar um comando especifico (exemplo popular: apertando 236 + soco para dar Hadouken), normalmente consegue ser combinado depois de algum Normal para dar mais dano (o famoso combo);
+* **Normals** São os ataques básicos do personagem, como 5L que normalmente é um soco simples;
+
+* **Jumping** Para quem não sabe inglês, significa "pulando";
+
+* **Specials** São os golpes únicos de cada personagem feito ao dar um comando específico (exemplo comum: apertando 236 + soco para dar Hadouken), normalmente consegue ser combinado depois de algum Normal para dar mais dano (o famoso combo);
+
 * **Super** é o "golpe secreto" do personagem. É normalmente executado ao fazer um comando mais complexo que um Special (no caso de Street Fighter, seria 236236 + soco, mas também pode ser relativamente simples que nem no Dragon Ball Fighter Z que é somente 236 + dois botões de ataque). Normalmente possui uma barra dedicada que só possibilita o Super ser executado caso ela esteja cheia;
+
 * **Command Normals** são ataque simples normalmente específicos de cada personagem, como *6 + soco* para dar golpe Overhead;
-* **Grab** é o agarrão. Dependendo do jogo pode ser combinação de dois botões ou apenas apertando 6 + botão forte para agarrar o oponente. Ferramente extremamanete útil contra algum oponente que está defendendo tudo que você faz, e normalmente defendível ao aperta os botões de Grab ao quase mesmo tempo que a pessoa que tentou dar ou pulando fora do alcance do grab caso esse só pegue em oponente que esteja no chão. Defender o agarrão dando o input de agarrão é chamando de Tech;
+
+* **Grab** é o agarrão. Dependendo do jogo pode ser combinação de dois botões ou apenas apertando 6 + botão forte para agarrar o oponente. Ferramenta extremamente útil contra algum oponente que está defendendo tudo que você faz. Para lidar com grab, você pode dar tech, que se refere ao ato de tentar dar grab ao mesmo tempo que seu oponente (ou prever um grab com antecedência). Grabs só funcionam contra oponentes que estão no chão, oponentes *airborne* (no ar) ou durante blockstun estão imunes a grabs. Pulos e backdashes são opções bem comuns para escaparem de throws.
+O ato de dar um grab ao mesmo tempo que seu oponente é chamado de **tech**
+
 * **Command Grab** é a versão "Special" do Grab normal, que é feito somente quando vc faz algum comando especifico. Diferente do Grab normal, esse tipo de grab só dá para escapar pulando para fora do alcance. Mas cuidado porque há personagens que tem Command Grabs que só pegam em oponentes no chão ou só em oponentes no ar.
+
 * **EX Specials** são uma versão mais forte dos Specials. Normalmente custando parte da barra de Super como efeito, e tão efetivo quanto usar um Super caso você esteja em dia com os combos do seu personagem.
 
 
 ## High, Low, Overhead e OTG
 High e Low são referentes à altura dos golpes: 
-* Golpes **High** acertam personagens em pé e na maioria das vezes personagens agachados (depende da altura do oponente) mas podem ser bloqueados tanto em pé quanto agachado;
-* Golpes **Low** acertam inimigos que estavam bloqueando em pé mas são bloqueados por inimigos defendendo agachado;
+* Golpes **High**: Golpes que precisam ser defendidos em pé. Normalmente vem a partir de *jump-ins* (pulos) ou overheads.
+
+* Golpes **Mid**: Golpes que podem ser defendidos tanto em pé quanto agachado.
+
+* Golpes **Low**: Golpes que precisam ser defendidos agachados. Normalmente estes golpes são feitos agachados, com algumas exceções. Em alguns jogos existem golpes low que são feitos com personagem em pé.
+
 * **Overhead** (em sigla: OH) são golpes normalmente bem lentos mas acertam inimigos que estavam bloqueando low;
-* Golpes **OTG** (On the Ground) são golpes que acertam oponentes caídos no chão.
+
+* Golpes **OTG** (On the Ground) são golpes que acertam oponentes caídos no chão. Não confundir com *okizeme*.
 
 ## Framedata e Detalhes
-Framedata é a informação geral dos golpes num jogo de luta, talvez o aspecto mais importante nele. Dele você ve quais as possiblidades que um personagem oferece em termos de ataque e defesa: o quão rápido um golpe é (que é visto em quantidade de frames por segundo), se ele consegue combar em outro ataque, qual o alcance desse ataque e entre outros. Há varios tipos de elementos de framedata pra cada golpe, que são:
-* **Start-Up**: O tempo que a animação de um ataque leva até chegar no Active frames. É possivel que seu ataque tenha sido interrompido aqui se seu oponente conseguiu bater antes que seu golpe saísse;
-* **Active**: O momento em que o golpe "bate" no oponente. Os frames ativos sempre conecta no oponente no primeiro possivel.
-* **Recovery**: O tempo de animação em que o golpe termina até o personagem volta ao estado neutro. É a parte do ataque que é cancelado em combos com cancel e também é o momento que seu personagem fica vulnerável caso o oponente tenha bloqueado um golpe seu com muito recovery frames.
-* **on Hit**: Quantidade de tempo em frames de diferença entre você e o oponente caso o golpe tenha conectado nele;
+Framedata são informações gerais sobre os golpes em um jogo de luta. Mais especificamente sobre *velocidade* e *duração dos golpes* . O quanto um golpe demora para começar, quanto tempo ele pode acertar o oponente e quanto tempo demora para voltar ao *neutro* . O tempo é denotado em *frames* que se refere aos quadros de animação, maioria dos jogos de luta rodam a 60 quadros por segundo, fazendo com que cada frame seja aproximadamente 16 milissegundos.
+
+Você não precisa decorar framedata, você também não precisa se preocupar com milissegundos. Framedata é para ser consultada durante o seu treino e para poupar o tempo que você gastaria testando coisas. É informação valiosa sintetizada de uma maneira muito rápida de digerir.
+
+Framedata normalmente consiste das seguintes informações:
+
+* **Start-Up**: O tempo que a animação de um ataque leva até chegar no Active frames. É possível que seu ataque tenha sido interrompido aqui se seu oponente conseguiu bater antes que seu golpe saísse;
+> Um golpe que começa em 3f é mais rápido do que um que começa em 7f
+
+* **Active**: O momento em que o golpe "bate" no oponente. Os frames ativos sempre conectam no oponente no primeiro possível.
+> Meu golpe tem 4f ativo, significa que ele fica ali,na tela, acertando durante 4f.
+
+* **Recovery**: O tempo de animação em que o golpe termina até o personagem volta ao estado neutro.
+> Golpes com recovery muito alto podem ser punidos porque meu personagem demora a voltar a defender.
+
+* **on Hit**: Quantidade de tempo em frames de diferença entre você e o oponente caso ele tenha recebido um ataque
+> Se um golpe é +7 on hit, você recupera 7 frames antes do seu oponente. Nesse caso posso combar com um golpe de até 7 frames de startup. 
+
 * **on Block**: Quantidade de tempo em frames de diferença entre você e o oponente caso ele tenha defendido um ataque;
+> Dei um golpe que é -5 on block na defesa do meu oponente. Eu posso levar qualquer golpe de até 5f de startup. Pois ele recupera o controle do personagem 5f antes de mim.
+
 * **Positivo e Negativo**: Caso seu ataque tenha acertado o seu oponente ou ele tenha bloqueado, há uma diferença de tempo entre vocês dois até que consigam realizar qualquer outra ação. Caso você consiga agir antes que seu oponente, você estava em vantagem de frames positiva (que seria dito como exemplo: +10 on Hit ou +2 on Block), e caso ele consiga agir antes de você, você estaria em Negativo (por exemplo -4 on Block);
+
 * **Hitstun**: Animação que seu personagem está tomando dano;
+
 * **Blockstun**: Animação que seu personagem fica quando defendeu um golpe;
-* **Hitbox**: Caixa invisível para detecção de colisão de um golpe. Se a Hitbox colidir com uma Hitbox, o jogo avalia que o golpe acertou o oponente. O tempo que a Hitbox de um golpe fica ativa é o que referimos como Active Frames;
-* **Hurtbox**: Caixa invisível de detecção de colisão do seu personagem em estado neutro. Se o golpe conectar na sua Hurtbox, o joga avalia que você levo dano e vai ficar em Hitstun e talvez seu inimigo consiga combar um ataque enquanto vc estiver preso na animação;
-* **iFrames**: Alguns golpes apresentam alguns instantes de invulnerabilidade (por exemplo, o famoso Shoryuken). O iFrames são a quantidade de frames em que a caixa de invulnerabilidade do golpe está ativa.
+
+* **Hitbox**: Caixa invisível para detecção de colisão de um golpe. Se a Hitbox colidir com uma Hitbox, o jogo avalia que o golpe acertou o oponente. O tempo que a Hitbox de um golpe fica ativa é o que referimos como *Active Frames* (Frames ativos);
+
+* **Hurtbox**: Caixa invisível de detecção de colisão do seu personagem em estado neutro. Se a hitbox de um golpe conectar na sua Hurtbox, o joga avalia que você levou dano e vai ficar em Hitstun.
+
+* **iFrames**: Também conhecidos como *Invencibility/Invulnerability Frames* (ou frames de invencibilidade). São literalmente golpes que não podem ser atingidos, justamente pela __ausência de hurtbox__.
+Alguns golpes como os shoryukens de Street Fighter são imunes a golpes, pois eles não tem hurtbox durante um tempo em suas animações, o que faz com que eles tenham muitos iframes.
 
 
 ## Combo
-Combos são uma série de ataques seguidos que o oponente não consegue interromper apenas bloqueando (se ele fez isso é porque vc erro o combo). Há diversos tipos de combos em jogos diferentes:
+Combos são uma série de ataques seguidos que o oponente não consegue interromper apenas bloqueando (se ele fez isso é porque vc errou o combo). Há diversos tipos de combos em jogos diferentes:
+
 * **Combo Links**: Realizado quando você conecta golpes um no outro porque a framedata possibilita tal. Tem execução mais restritiva e costuma aparecer em jogos mais velhos;
-* **Chain Combo**: Combo que tem timing mais leniente que Combo Link e é executado geralmente com uma série de botões genérica (por exemplo: L > L > M > M > 2H do DBFZ)
-* **Cancels**: Quando o recovery de algum ataque é cancelado e outro golpe sai imedianatamente;
-* **Target Combo**: Execução de Normals específica em que cada um se "cancela" no outro.
+> Um golpe é +5 on hit, posso encaixar um golpe de até 5f de startup. Isso é um link.
+
+* **Chain Combo**: Combo que tem timing mais leniente que Combo Link e é executado geralmente com uma série de botões genérica (por exemplo: L > L > M > M > 2H do DBFZ) Chain combos cancelam um botão em outro logo após conectar com o oponente. Também conhecidos como **Target Combos**, **Gatlings** e **Magic Series**
+
+* **Cancels**: Quando o recovery de algum ataque é cancelado e outro golpe sai imediatamente;
 
 ## Neutro e Pressão
-* Neutral Game:
-* Mix-up:
-* Okizeme:
+* **Neutral Game**: Jogo neutro se refere a um ponto do jogo onde ambos jogadores não tem nenhuma vantagem sobre o outro estão procurando conseguir qualquer tipo de vantagem.
+
+    **Alguns exemplos de situações vantajosas:**
+    - Fazer seu oponente bloquear algo positivo on block
+    - Acertar um golpe
+    - Conseguir um knockdown
+    - Levar seu oponente pro corner são exemplos de situações vantajosas.
+
+* **Mix-up**: Mixup é qualquer situação que você obrigue seu oponente a escolher entre opções.
+    - Criar uma dúvida se você vai agarrar ou fazer um overhead
+    - Se você vai fazer um crossup ou não
+    - Se ele precisa defender high ou low
+
+* **Okizeme**: Refere-se a atacar seu oponente enquanto ele está levantando de um knockdown.
 
 ## Defesa
 * **Block**: A simples defesa. Grande maioria dos jogos 2D é simplesmente segurar para trás ou trás+baixo.
-* **Pushblock**: Alguns jogos possuem mecânicas que permite que o ataque do oponente seja ainda mais afastado caso você bloqueie e aperte junto uma combinação de botões. Isso se chama Pushblock, mas também pode possuir nomes próprios dependendo do jogo (Advancing Guard no Marvel vs Capcom 3, Faultless Defense no Guilty Gear, Reflect no Dragon Ball Fighter Z)
-* **Chicken Block**: Jogos que tem um jogo aéreo mais intenso normalmente te dá possibilidade de bloquear no ar. Chicken Block é rapidamente pular para trás e bloquear para evitar mix-ups intensivos no chão e sair do blockstun mais rápido.
-* **Burst**: Alguns jogos que possuem pressão intensa dão a possibilidade do jogador interromper a ofensiva do adversário. Burst é usado para afastar o oponente numa explosão que da pouco dano ma amnda ele para o outro lado da tela, e assim voltando ao neutral game.
+* **Pushblock**: Alguns jogos possuem mecânicas que permitem que o ataque do oponente seja ainda mais afastado caso você bloqueie e aperte junto uma combinação de botões. Isso se chama Pushblock, mas também pode possuir nomes próprios dependendo do jogo (Advancing Guard no Marvel vs Capcom 3, Faultless Defense no Guilty Gear, Reflect no Dragon Ball Fighter Z)
+* **Chicken Block**: Jogos que tem um jogo aéreo mais intenso normalmente te dão a possibilidade de bloquear no ar. Chicken Block é rapidamente pular para trás e bloquear para evitar mix-ups intensivos, já que no ar não há diferença entre high e low, e sair do blockstun mais rápido.
+
+* **Burst**: Alguns jogos que possuem pressão intensa dão a possibilidade do jogador interromper a ofensiva do adversário. Burst é usado para afastar o oponente numa explosão que da pouco dano e manda ele para o outro lado da tela, e assim voltando ao neutral game. Pode ser realizado para interromper um combo do seu oponente ou simplesmente usar para acabar com a pressão.
 * **Guard Cancel**:
 * **Reversal**:
 * **Parry**:
