@@ -13,3 +13,4 @@ Aqui você encontra as páginas para cada jogo nesta wiki
 |   |   |   |
 |---|---|---|
 | [Quem Somos](/institucional/quem-somos)  | [Links Úteis](/institucional/links)  | [Regras](/institucional/regras)  |
+| [Quem Somos](/institucional/fginfo) |  |  |
