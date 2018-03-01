@@ -106,6 +106,9 @@ Combos são uma série de ataques seguidos que o oponente não consegue interrom
 ### Okizeme
 
 
+### Reversal
+
+
 ## Ataque
 * **Tiger Knee Motion**:
 * **360**: 
