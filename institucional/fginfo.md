@@ -12,7 +12,7 @@ Notações normalmente depende de cada jogo, mas sempre há termos mais genéric
 | 1 | 2 | 3 |
 
 O método de referência de direção mais comum entre os jogadores japoneses, pode parecer um tanto confuso no começo mas logo fica facil de reconhecer as direções num piscar de olhos. Ele assume sua posição de Player 1, portanto fica: 4 = Trás, 6 = Frente, 2 = Baixo, 8 = Cima e 5 = Nenhuma direção sendo pressionada. Nisso o movimentoi de Hadouken, por exemplo, fica escrito como 236 + Soco.
-Há os golpes que são executados ao segurar o botão pra trás ou baixo, e rapidamente apertar a direção oposta + botão de ataque. Esses são chamados de Charge.
+Há os golpes que são executados ao segurar o botão pra trás ou baixo por um tempo, e rapidamente apertar a direção oposta + botão de ataque. Esses são chamados de Charge.
 Para referir ao movimento de Charge em notação numérica, é usado os colchetes `[]` para a direção segurada.
 No final, a notação deve ficar tipo assim:
 
