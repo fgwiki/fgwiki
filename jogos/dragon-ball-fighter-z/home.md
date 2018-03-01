@@ -22,6 +22,19 @@ A notação usada em todos os artigos relacionados a DBFZ será a Numérica:
 
 ![Notação em DBFZ](https://cdn.discordapp.com/attachments/377253177059442688/410130219316281366/dbfz_notation-01.png)
 
+
+## Termos gerais de jogo de luta 2D
+### Normals, Specials, Supers, Command Normals, Command Specials
+
+### High, Low, Overhead e OTG
+
+### Framedata, Start-up, Active e Recovery frames, "on Hit" e "on Block"
+
+### Neutro e Pressão
+
+### Okizeme
+
+
 ## Termos únicos do jogo
 ### Super Dash
 `(H+S, air OK)`
@@ -85,17 +98,6 @@ Gasta 1 barra. Troca de personagem. Ao usar o guard cancel change você não pod
 Similar ao DHC da série Marvel vs Capcom. Chama outro personagem do seu time para dar um Super. Pode ser feito durante um super do seu personagem ativo ou, se feito com 41236+A1/A2 ou 63214+A1/A2, Simplesmente chama outro personagem seu para fazer um super.
 
 Personagens saindo ficarão em cooldown, um personagem pode entrar independente do cooldown. Gasta 1 ou 3 barras dependendo de qual super você fez.
-
-## Termos gerais de jogo de luta 2D
-### Normals, Specials, Supers, Command Normals, Command Specials
-
-### High, Low, Overhead e OTG
-
-### Framedata, Start-up, Active e Recovery frames, "on Hit" e "on Block"
-
-### Neutro e Pressão
-
-### Okizeme
 
 # Dicas Gerais (Macetes Incríveis)
 ## Melhor forma de dar Anti-Air
