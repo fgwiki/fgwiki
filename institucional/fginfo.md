@@ -87,11 +87,15 @@ Framedata normalmente consiste das seguintes informações:
 
 
 * **Start-Up**: O tempo que a animação de um ataque leva até chegar no Active frames. É possivel que seu ataque tenha sido interrompido aqui se seu oponente conseguiu bater antes que seu golpe saísse;
->*Um golpe que começa em 3f é mais rápido do que um que começa em 7f*
+`*Um golpe que começa em 3f é mais rápido do que um que começa em 7f*`
 
 
 * **Active**: O momento em que o golpe "bate" no oponente. Os frames ativos sempre conecta no oponente no primeiro possivel;
+
+```text
 >*Meu golpe tem 4f ativo, significa que ele fica ali,na tela, acertando durante 4f.*
+```
+
 
 
 * **Recovery**: O tempo de animação em que o golpe termina até o personagem volta ao estado neutro. É a parte do ataque que é cancelado em combos com cancel e também é o momento que seu personagem fica vulnerável caso o oponente tenha bloqueado um golpe seu com muito recovery frames;
