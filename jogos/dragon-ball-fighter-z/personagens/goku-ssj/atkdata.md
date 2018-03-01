@@ -8,24 +8,13 @@
 |   |   |
 |---|---|
 | **5L** | Golpe de curto alcance |
-
-### 5L
-
-### 2L
-
-### 5M
-
-### 2M
-
-### 6M
-
-### 5H
-
-### 2H
-
-### 5S
-
-### 2S
+| **2L** | Golpe de curto alcance agachado |
+| **5M** | Golpe de médio alcance, levanta o oponente depois do 2M |
+| **2M** | Golpe de médio alcance que acerta low, ótimo para começar combo a partir do neutro |
+| **6M** | Overhead universal |
+| **5H** | Golpe forte de alto alcance horizontal, tem wallbounce |
+| **2H** | Golpe forte agachado, tem alto alcance vertical e invulnerabilidade na parte superior, ideal para anti-air |
+| **5S** | Ki Blast simples, para ataque de longo alcance |
 
 ## No ar
 ### j.L
