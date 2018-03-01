@@ -123,7 +123,7 @@ Refere-se a atacar seu oponente enquanto ele está levantando de um knockdown.
 * **Safe Jump**:
 * **IAD**:
 * **Tick Throw**:
-* **Mix-Up**: Mixup é qualquer situação que você obrigue seu oponente a escolher entre opções. Por exemplo, criar uma dúvida se você vai agarrar ou fazer um overhead, se você vai fazer um crossup ou não,ou e ele precisa defender high ou low
+* **Mix-Up**: Mixup é qualquer situação que você obrigue seu oponente a escolher entre opções. Por exemplo, criar uma dúvida se você vai agarrar ou fazer um overhead, se você vai fazer um crossup ou não,ou e ele precisa defender high ou low;
 * **Punish**:
 * **Confirm**:
 * **Counter Hit**:
