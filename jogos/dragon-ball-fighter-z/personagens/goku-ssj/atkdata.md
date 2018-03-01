@@ -5,6 +5,10 @@
 [Goku - Combos](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/combos)
 # Normais
 ## No chão
+|   |   |
+|---|---|
+| **5L** | Golpe de curto alcance |
+
 ### 5L
 
 ### 2L
