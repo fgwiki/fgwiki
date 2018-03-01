@@ -18,7 +18,7 @@ High e Low são referentes à altura dos golpes:
 * **Overhead** são golpes normalmente bem lentos mas acertam inimigos que estavam bloqueando low;
 * Golpes **OTG** (On the Ground) são golpes que acertam oponentes caídos no chão.
 
-## Framedata: Start-up, Active e Recovery frames, "on Hit" e "on Block", Positivo e Negativo, Hitstun, Blockstun Hitbox, Hurtbox e iFrames
+## Framedata e Detalhes
 Framedata é a informação geral dos golpes num jogo de luta, talvez o aspecto mais importante nele. Dele você ve quais as possiblidades que um personagem oferece em termos de ataque e defesa: o quão rápido um golpe é (que é visto em quantidade de frames por segundo), se ele consegue combar em outro ataque, qual o alcance desse ataque e entre outros. Há varios tipos de elementos de framedata pra cada golpe, que são:
 * Start-Up: O tempo que a animação de um ataque leva até chegar no Active frames. É possivel que seu ataque tenha sido interrompido aqui se seu oponente conseguiu bater antes que seu golpe saísse;
 * Active: O momento em que o golpe "bate" no oponente. Os frames ativos sempre conecta no oponente no primeiro possivel.
