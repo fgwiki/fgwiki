@@ -118,6 +118,9 @@ Combos são uma série de ataques seguidos que o oponente não consegue interrom
 * **IAD**:
 * **Tick Throw**:
 * **Mix-Up**:
+* **Punish**:
+* **Confirm**:
+* **Counter Hit**:
 
 ## Defesa
 * **Block**: A simples defesa. Grande maioria dos jogos 2D é simplesmente segurar para trás ou trás+baixo.
