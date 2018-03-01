@@ -97,19 +97,21 @@ Combos são uma série de ataques seguidos que o oponente não consegue interrom
 * **Target Combo**: Execução de Normals específica em que cada um se "cancela" no outro.
 
 ## Neutro e Pressão
-* Neutral Game:
-* Mix-up:
-* Okizeme:
+### Neutral Game:
+
+
+### Okizeme:
 
 
 ## Ataque
-* Tiger Knee Motion:
-* 360: 
-* Kara:
-* Raging Demon:
-* Safe Jump:
-* IAD:
-* Tick Throw:
+* **Tiger Knee Motion**:
+* **360**: 
+* **Kara**:
+* **Raging Demon**:
+* **Safe Jump**:
+* **IAD**:
+* **Tick Throw**:
+* **Mix-Up**:
 
 ## Defesa
 * **Block**: A simples defesa. Grande maioria dos jogos 2D é simplesmente segurar para trás ou trás+baixo.
