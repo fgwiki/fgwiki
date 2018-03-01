@@ -90,24 +90,23 @@ Framedata normalmente consiste das seguintes informações:
 `*Um golpe que começa em 3f é mais rápido do que um que começa em 7f*`
 
 
-* **Active**: O momento em que o golpe "bate" no oponente. Os frames ativos sempre conecta no oponente no primeiro possivel;
 
-```text
->*Meu golpe tem 4f ativo, significa que ele fica ali,na tela, acertando durante 4f.*
-```
+* **Active**: O momento em que o golpe "bate" no oponente. Os frames ativos sempre conecta no oponente no primeiro possivel;
+`*Meu golpe tem 4f ativo, significa que ele fica ali,na tela, acertando durante 4f.*`
+
 
 
 
 * **Recovery**: O tempo de animação em que o golpe termina até o personagem volta ao estado neutro. É a parte do ataque que é cancelado em combos com cancel e também é o momento que seu personagem fica vulnerável caso o oponente tenha bloqueado um golpe seu com muito recovery frames;
->*Golpes com recovery muito alto podem ser punidos porque meu personagem demora a voltar a defender.*
+`*Golpes com recovery muito alto podem ser punidos porque meu personagem demora a voltar a defender.*`
 
 
 * **on Hit**: Quantidade de tempo em frames de diferença entre você e o oponente caso o golpe tenha conectado nele;
->*Se um golpe é +7 on hit, você recupera 7 frames antes do seu oponente. Nesse caso posso combar com um golpe de até 7 frames de startup. *
+`*Se um golpe é +7 on hit, você recupera 7 frames antes do seu oponente. Nesse caso posso combar com um golpe de até 7 frames de startup. *`
 
 
 * **on Block**: Quantidade de tempo em frames de diferença entre você e o oponente caso ele tenha defendido um ataque;
->*Dei um golpe que é -5 on block na defesa do meu oponente. Eu posso levar qualquer golpe de até 5f de startup. Pois ele recupera o controle do personagem 5f antes de mim.*
+`*Dei um golpe que é -5 on block na defesa do meu oponente. Eu posso levar qualquer golpe de até 5f de startup. Pois ele recupera o controle do personagem 5f antes de mim.*`
 
 
 * **Positivo e Negativo**: Caso seu ataque tenha acertado o seu oponente ou ele tenha bloqueado, há uma diferença de tempo entre vocês dois até que consigam realizar qualquer outra ação. Caso você consiga agir antes que seu oponente, você estava em vantagem de frames positiva (que seria dito como exemplo: +10 on Hit ou +2 on Block), e caso ele consiga agir antes de você, você estaria em Negativo (por exemplo -4 on Block);
@@ -126,7 +125,7 @@ Framedata normalmente consiste das seguintes informações:
 
 
 * **iFrames**: Também conhecidos como *Invencibility/Invulnerability Frames* (ou frames de invencibilidade). São literalmente golpes que não podem ser atingidos, justamente pela __ausência de hurtbox__.
->*Alguns golpes como os shoryukens de Street Fighter são imunes a golpes, pois eles não tem hurtbox durante um tempo em suas animações, o que faz com que eles tenham muitos iframes.*
+`*Alguns golpes como os shoryukens de Street Fighter são imunes a golpes, pois eles não tem hurtbox durante um tempo em suas animações, o que faz com que eles tenham muitos iframes.*`
 
 
 ## Combo
