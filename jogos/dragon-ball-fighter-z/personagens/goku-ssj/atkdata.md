@@ -19,11 +19,9 @@
 | 5L |
 |---|
 | ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L") |
-
 | Dano | Start-up | Active |
 |---|---|---|
 | 20 | 7f | 4f |
-
 | Recovery | on Hit | on Block |
 |---|---|---|
 | 2f | +10 | +8 |
