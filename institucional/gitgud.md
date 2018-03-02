@@ -7,8 +7,8 @@ Melhorar em qualquer coisa na vida requer atenção, mentalidade e paciência. J
 Segredo de melhorar vem de preserverança, reconhecimento dos próprios erros, e muita prática e estudo. E não esqueça que mesmo assim com tudo isso não garante que você vá sempre ganhar, porque não existe alguém que aprendeu a ser melhor sem perder.
 
 # Tutoriais e Guias
-![Dojo Critical Art](http://criticalart.com.br/dojo)
-![Exploring Fighting Games - Explorando Jogos de Luta (Playlist de Youtube, requer inglês)](https://www.youtube.com/playlist?list=PLj34EySs1IeZLdaLTIoMvkoMkxUk2l74A)
+[Dojo Critical Art](http://criticalart.com.br/dojo)
+[Exploring Fighting Games - Explorando Jogos de Luta (Playlist de Youtube, requer inglês)](https://www.youtube.com/playlist?list=PLj34EySs1IeZLdaLTIoMvkoMkxUk2l74A)
 
 
 # Dicas de como melhorar:
