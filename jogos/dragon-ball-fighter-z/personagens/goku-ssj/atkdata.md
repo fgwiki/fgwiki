@@ -18,7 +18,7 @@
 Golpe de curto alcance
 
 ### 2L
-![2L](/uploads/temp.png "Temp")
+![Temp](/uploads/temp.png "Temp")
 |  | 5L |  |
 |---|---|---|
 | **Dano** | **Start-up** | **Active** |
