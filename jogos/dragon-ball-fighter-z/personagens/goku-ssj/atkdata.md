@@ -10,9 +10,9 @@
 ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L")
 <div style="overflow-x:auto;">
 	<tr>
-		<td>
+		<th>
 			5L
-		</td>
+		</th>
 	</tr>
 	<tr>
 		<td>
