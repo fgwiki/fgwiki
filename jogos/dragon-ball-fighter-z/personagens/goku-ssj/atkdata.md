@@ -351,13 +351,173 @@
 ## No ar
 ### j.L
 
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.L</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5"> Golpe leve no ar, primeiro golpe do air Autocombo </td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
 ### j.M
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5"> Golpe médio no ar, normal que dá mais dano sem causar knockdown ou launch </td>
+						</tr>
+        </tbody>
+    </table>
+</div>
 
 ### j.5H
 
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.5H</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5"> Golpe de dano forte no ar, ataca o inimigo na direção do chão dando knockdown</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
 ### j.2H
 
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">5LL</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5"> Golpe de dano forte no ar, lança o inimigo mais pra cima, possibilitando continuar o combo caso você tenha double jump disponível</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
 ### j.S
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">5LL</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5"> Ki blast no ar. Ele sai angulado para frente+baixo</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
 
 # Specials
 ## Colocar nome do ataque do command list in-game *236L/M/H*
