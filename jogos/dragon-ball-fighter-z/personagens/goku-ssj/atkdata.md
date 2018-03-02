@@ -39,8 +39,8 @@ Golpe de curto alcance
 
 ### 2L
 ![Temp](/uploads/temp.png "Temp")
-|  | 2L |  |
-|---|---|---|
+|  | 2L |  |  |  |
+|---|---|---|---|---|
 | **Dano** | **Start-up** | **Active** | **Recovery** | **on Hit** | **on Block** |
 | --f | --f | --f | --- | --- | --- |
 
