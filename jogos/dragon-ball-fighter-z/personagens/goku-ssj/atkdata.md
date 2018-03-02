@@ -13,12 +13,12 @@
     <table>
         <thead>
             <tr>
-                <th colspan="5">5L</th>
+                <th colspan="6">5L</th>
             </tr>
         </thead>
         <tbody>
 						<tr>
-								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/goku-5-l.png" alt="Goku 5L" width="150" height="94"> </td>
+								<td colspan="6" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/goku-5-l.png" alt="Goku 5L" width="150" height="94"> </td>
 						</tr>
             <tr>
                 <td><strong>Dano</strong></td> 
@@ -26,16 +26,17 @@
                 <td><strong>Active</strong></td>
                 <td><strong>Recovery</strong></td>
                 <td><strong>on Hit</strong></td>
+								<td><strong>on Block</strong></td>
             </tr> 
 						<tr>
+                <td>-- dmg</td>
                 <td>--f</td>
                 <td>--f</td>
-                <td>--f</td>
-                <td>--f</td> 
-                <td>--f</td>
+                <td>-+</td> 
+                <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5">Golpe de curto alcance</td>
+								<td colspan="6">Golpe de curto alcance</td>
 						</tr>
         </tbody>
     </table>
