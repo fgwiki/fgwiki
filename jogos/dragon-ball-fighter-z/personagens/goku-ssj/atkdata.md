@@ -7,7 +7,7 @@
 ## No chão
 
 ### 5L
-![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L")
+
 
 <div style="overflow-x:auto;">
     <table>
@@ -17,6 +17,9 @@
             </tr>
         </thead>
         <tbody>
+						<tr>
+								<td colspan="5"> ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L") </td>
+						</tr>
             <tr>
                 <td><strong>Dano</strong></td> 
                 <td><strong>Start-up</strong></td>
@@ -31,11 +34,12 @@
                 <td>--f</td> 
                 <td>--f</td>
             </tr>
+						<tr>
+								<td colspan="5">Golpe de curto alcance</td>
+						</tr>
         </tbody>
     </table>
 </div>
-
-Golpe de curto alcance 
 
 ### 2L
 ![Temp](/uploads/temp.png "Temp")
