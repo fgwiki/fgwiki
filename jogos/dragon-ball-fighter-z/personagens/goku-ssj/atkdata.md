@@ -18,13 +18,11 @@
 
 
 ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L")
-| 5L |  |  |
+|  | 5L |  |
 |---|---|---|
-| Dano | Start-up | Active |
-|---|---|---|
+| **Dano** | **Start-up** | **Active** |
 | 20 | 7f | 4f |
-| Recovery | on Hit | on Block |
-|---|---|---|
+| **Recovery** | **on Hit** | **on Block** |
 | 2f | +10 | +8 |
 
 ## No ar
