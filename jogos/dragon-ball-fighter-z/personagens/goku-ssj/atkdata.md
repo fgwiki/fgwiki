@@ -32,8 +32,9 @@
                 <td>-- dmg</td>
                 <td>--f</td>
                 <td>--f</td>
-                <td>-+</td> 
+                <td>--f</td> 
                 <td>-+</td>
+								<td>-+</td>
             </tr>
 						<tr>
 								<td colspan="6">Golpe de curto alcance</td>
