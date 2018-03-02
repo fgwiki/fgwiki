@@ -41,10 +41,8 @@ Golpe de curto alcance
 ![Temp](/uploads/temp.png "Temp")
 |  | 2L |  |
 |---|---|---|
-| **Dano** | **Start-up** | **Active** |
-| --f | --f | --f |
-| **Recovery** | **on Hit** | **on Block** |
-| --- | --- | --- |
+| **Dano** | **Start-up** | **Active** | **Recovery** | **on Hit** | **on Block** |
+| --f | --f | --f | --- | --- | --- |
 
 Golpe de curto alcance agachado
 
