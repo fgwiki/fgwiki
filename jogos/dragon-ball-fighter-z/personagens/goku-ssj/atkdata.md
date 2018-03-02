@@ -8,6 +8,7 @@
 
 ### 5L
 ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L")
+
 <div style="overflow-x:auto;">
     <table>
         <thead>
