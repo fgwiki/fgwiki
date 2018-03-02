@@ -9,10 +9,51 @@
 ### 5L
 ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L")
 <div style="overflow-x:auto;">
-|  | 5L |  |
-|---|---|---|
-| **Dano** | **Start-up** | **Active** | **Recovery** | **on Hit** | **on Block** |
-| --f | --f | --f | --- | --- | --- |
+	<tr>
+		<td>
+			5L
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Dano
+		</td>
+		<td>
+			Start-Up
+		</td>
+		<td>
+			Active
+		</td>
+		<td>
+			Recovery
+		</td>
+		<td>
+			on Hit
+		</td>
+		<td>
+			on Block
+		</td>
+	</tr>
+	<tr>
+		<td>
+			--dmg
+		</td>
+		<td>
+			--f
+		</td>
+		<td>
+			--f
+		</td>
+		<td>
+			--f
+		</td>
+		<td>
+			--+
+		</td>
+		<td>
+			--+
+		</td>
+	</tr>
 </div>
 
 Golpe de curto alcance 
