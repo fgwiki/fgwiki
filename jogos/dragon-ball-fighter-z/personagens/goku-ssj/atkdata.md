@@ -16,7 +16,7 @@
 | **2H** | Golpe forte agachado, tem alto alcance vertical e invulnerabilidade na parte superior, ideal para anti-air |
 | **5S** | Ki Blast simples, para ataque de longo alcance |
 
->5L
+### 5L
 ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L")
 |  | 5L |  |
 |---|---|---|
