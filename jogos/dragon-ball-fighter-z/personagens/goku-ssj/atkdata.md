@@ -18,7 +18,7 @@
         </thead>
         <tbody>
 						<tr>
-								<td colspan="5" style="display: inline; text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/goku-5-l.png" alt="Goku 5L" width="150" height="94"> </td>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/goku-5-l.png" alt="Goku 5L" width="150" height="94"> </td>
 						</tr>
             <tr>
                 <td><strong>Dano</strong></td> 
