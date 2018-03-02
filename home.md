@@ -6,6 +6,8 @@ Aqui você encontra as páginas para cada jogo nesta wiki
 ## Dragon Ball FighterZ
 [Página Inicial](/jogos/dragon-ball-fighter-z/home)
 
+## [DBFZ](/jogos/dragon-ball-fighter-z/home)
+
 ## Guilty Gear Xrd
 [Página Inicial](/jogos/guilty-gear-xrd/home)
 
