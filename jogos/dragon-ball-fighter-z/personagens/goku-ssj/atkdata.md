@@ -8,7 +8,6 @@
 
 ### 5L
 
-
 <div style="overflow-x:auto;">
     <table>
         <thead>
@@ -35,87 +34,319 @@
                 <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5">Golpe de curto alcance</td>
+								<td colspan="5">Golpe de curto alcance. Primeiro golpe do Autocombo Light</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+### 5LL
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">5LL</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5"> Segundo golpe do Autocombo Light</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+### 5LLL
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">5LLL</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Terceiro golpe do Autocombo Light. Launcher</td>
 						</tr>
         </tbody>
     </table>
 </div>
 
 ### 2L
-![Temp](/uploads/temp.png "Temp")
-|  | 2L |  |  |  |
-|---|---|---|---|---|
-| **Dano** | **Start-up** | **Active** | **Recovery** | **on Hit** | **on Block** |
-| --f | --f | --f | --- | --- | --- |
 
-Golpe de curto alcance agachado
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">2L</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Golpe de curto alcance agachado</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
 
 ### 5M
-![Temp](/uploads/temp.png "Temp")
-|  | 5M |  |
-|---|---|---|
-| **Dano** | **Start-up** | **Active** |
-| --f | --f | --f |
-| **Recovery** | **on Hit** | **on Block** |
-| --- | --- | --- |
 
-Golpe de médio alcance, levanta o oponente depois do 2M
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">5M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Golpe de médio alcance, levanta o oponente depois do 2M</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
 
 ### 2M
-![Temp](/uploads/temp.png "Temp")
-|  | 2M |  |
-|---|---|---|
-| **Dano** | **Start-up** | **Active** |
-| --f | --f | --f |
-| **Recovery** | **on Hit** | **on Block** |
-| --- | --- | --- |
 
-Golpe de médio alcance que acerta low, ótimo para começar combo a partir do neutro
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">2M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Golpe de médio alcance que acerta low, ótimo para começar combo a partir do neutro</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
 
 ### 6M
-![Temp](/uploads/temp.png "Temp")
-|  | 6M |  |
-|---|---|---|
-| **Dano** | **Start-up** | **Active** |
-| --f | --f | --f |
-| **Recovery** | **on Hit** | **on Block** |
-| --- | --- | --- |
 
-Overhead universal
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">6M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Overhead universal</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+
 
 ### 5H
-![Temp](/uploads/temp.png "Temp")
-|  | 5H |  |
-|---|---|---|
-| **Dano** | **Start-up** | **Active** |
-| --f | --f | --f |
-| **Recovery** | **on Hit** | **on Block** |
-| --- | --- | --- |
 
-Golpe forte de alto alcance horizontal, tem wallbounce
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">5H</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Golpe forte de alto alcance horizontal, tem wallbounce</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
 
 ### 2H
-![Temp](/uploads/temp.png "Temp")
-|  | 2H |  |
-|---|---|---|
-| **Dano** | **Start-up** | **Active** |
-| --f | --f | --f |
-| **Recovery** | **on Hit** | **on Block** |
-| --- | --- | --- |
 
-Golpe forte agachado, tem alto alcance vertical e invulnerabilidade na parte superior, ideal para anti-air
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">2H</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Golpe forte agachado, tem alto alcance vertical e invulnerabilidade na parte superior, ideal para anti-air</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
 
 ### 5S
-![Temp](/uploads/temp.png "Temp")
-|  | 5S |  |
-|---|---|---|
-| **Dano** | **Start-up** | **Active** |
-| --f | --f | --f |
-| **Recovery** | **on Hit** | **on Block** |
-| --- | --- | --- |
 
-Ki Blast simples, para ataque de longo alcance
-
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">2H</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Ki Blast simples, para ataque de longo alcance</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
 
 ## No ar
 ### j.L
