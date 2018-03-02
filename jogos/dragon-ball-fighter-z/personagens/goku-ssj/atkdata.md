@@ -5,25 +5,28 @@
 [Goku - Combos](/jogos/dragon-ball-fighter-z/personagens/goku-ssj/combos)
 # Normais
 ## No chão
-|   |   |
-|---|---|
-| **5L** | Golpe de curto alcance |
-| **2L** | Golpe de curto alcance agachado |
-| **5M** | Golpe de médio alcance, levanta o oponente depois do 2M |
-| **2M** | Golpe de médio alcance que acerta low, ótimo para começar combo a partir do neutro |
-| **6M** | Overhead universal |
-| **5H** | Golpe forte de alto alcance horizontal, tem wallbounce |
-| **2H** | Golpe forte agachado, tem alto alcance vertical e invulnerabilidade na parte superior, ideal para anti-air |
-| **5S** | Ki Blast simples, para ataque de longo alcance |
 
 ### 5L
 ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L")
 |  | 5L |  |
 |---|---|---|
 | **Dano** | **Start-up** | **Active** |
-| 20 | 7f | 4f |
+| --f | --f | --f |
 | **Recovery** | **on Hit** | **on Block** |
-| 2f | +10 | +8 |
+| --- | --- | --- |
+
+Golpe de curto alcance
+
+### 2L
+![2L](/uploads/temp.png "Temp")
+|  | 5L |  |
+|---|---|---|
+| **Dano** | **Start-up** | **Active** |
+| --f | --f | --f |
+| **Recovery** | **on Hit** | **on Block** |
+| --- | --- | --- |
+
+Golpe de curto alcance agachado
 
 
 ## No ar
