@@ -14,11 +14,12 @@
 | --f | --f | --f |
 | **Recovery** | **on Hit** | **on Block** |
 | --- | --- | --- |
-[Golpe de curto alcance ]
+
+Golpe de curto alcance 
 
 ### 2L
 ![Temp](/uploads/temp.png "Temp")
-|  | 5L |  |
+|  | 2L |  |
 |---|---|---|
 | **Dano** | **Start-up** | **Active** |
 | --f | --f | --f |
@@ -26,6 +27,72 @@
 | --- | --- | --- |
 
 Golpe de curto alcance agachado
+
+### 5M
+![Temp](/uploads/temp.png "Temp")
+|  | 5M |  |
+|---|---|---|
+| **Dano** | **Start-up** | **Active** |
+| --f | --f | --f |
+| **Recovery** | **on Hit** | **on Block** |
+| --- | --- | --- |
+
+Golpe de médio alcance, levanta o oponente depois do 2M
+
+### 2M
+![Temp](/uploads/temp.png "Temp")
+|  | 2M |  |
+|---|---|---|
+| **Dano** | **Start-up** | **Active** |
+| --f | --f | --f |
+| **Recovery** | **on Hit** | **on Block** |
+| --- | --- | --- |
+
+Golpe de médio alcance que acerta low, ótimo para começar combo a partir do neutro
+
+### 6M
+![Temp](/uploads/temp.png "Temp")
+|  | 6M |  |
+|---|---|---|
+| **Dano** | **Start-up** | **Active** |
+| --f | --f | --f |
+| **Recovery** | **on Hit** | **on Block** |
+| --- | --- | --- |
+
+Overhead universal
+
+### 5H
+![Temp](/uploads/temp.png "Temp")
+|  | 5H |  |
+|---|---|---|
+| **Dano** | **Start-up** | **Active** |
+| --f | --f | --f |
+| **Recovery** | **on Hit** | **on Block** |
+| --- | --- | --- |
+
+Golpe forte de alto alcance horizontal, tem wallbounce
+
+### 2H
+![Temp](/uploads/temp.png "Temp")
+|  | 2H |  |
+|---|---|---|
+| **Dano** | **Start-up** | **Active** |
+| --f | --f | --f |
+| **Recovery** | **on Hit** | **on Block** |
+| --- | --- | --- |
+
+Golpe forte agachado, tem alto alcance vertical e invulnerabilidade na parte superior, ideal para anti-air
+
+### 5S
+![Temp](/uploads/temp.png "Temp")
+|  | 5S |  |
+|---|---|---|
+| **Dano** | **Start-up** | **Active** |
+| --f | --f | --f |
+| **Recovery** | **on Hit** | **on Block** |
+| --- | --- | --- |
+
+Ki Blast simples, para ataque de longo alcance
 
 
 ## No ar
