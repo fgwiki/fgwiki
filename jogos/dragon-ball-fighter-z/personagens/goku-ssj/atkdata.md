@@ -24,6 +24,13 @@
                 <td><strong>Recovery</strong></td>
                 <td><strong>on Hit</strong></td>
             </tr> 
+						<tr>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>--f</td>
+            </tr>
         </tbody>
     </table>
 </div>
