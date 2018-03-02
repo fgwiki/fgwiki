@@ -16,9 +16,17 @@
 | **2H** | Golpe forte agachado, tem alto alcance vertical e invulnerabilidade na parte superior, ideal para anti-air |
 | **5S** | Ki Blast simples, para ataque de longo alcance |
 
-| Frame | Golpe | Dano | Start-up | Active | Recovery | on Hit | on Block |
-|---|---|---|---|---|---|---|---|
-| ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L") | **5L** | 20 | 7f | 4f | 2f | +10 | +8 |
+| 5L |
+|---|
+| ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L") |
+
+| Dano | Start-up | Active |
+|---|---|---|
+| 20 | 7f | 4f |
+
+| Recovery | on Hit | on Block |
+|---|---|---|
+| 2f | +10 | +8 |
 
 ## No ar
 ### j.L
