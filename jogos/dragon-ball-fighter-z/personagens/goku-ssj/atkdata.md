@@ -320,7 +320,7 @@
     <table>
         <thead>
             <tr>
-                <th colspan="5">2H</th>
+                <th colspan="5">5S</th>
             </tr>
         </thead>
         <tbody>
