@@ -13,4 +13,4 @@ Aqui você encontra as páginas para cada jogo nesta wiki
 |   |   |   |
 |---|---|---|
 | [Quem Somos](/institucional/quem-somos)  | [Links Úteis](/institucional/links)  | [Regras](/institucional/regras)  |
-| [Informações Gerais de Jogos de Luta](/institucional/fginfo) | [Como Melhorar em Jogos de Luta](/institucional/gitgud) |  |
+| [Informações Gerais de Jogos de Luta](/institucional/fginfo) | [Como Melhorar em Jogos de Luta](/institucional/gitgud) | [Guia de Recomendação de Equipamento](/institucional/equipguide) |
