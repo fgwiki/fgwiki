@@ -14,7 +14,7 @@
 | --f | --f | --f |
 | **Recovery** | **on Hit** | **on Block** |
 | --- | --- | --- |
-|Golpe de curto alcance |
+[Golpe de curto alcance ]
 
 ### 2L
 ![Temp](/uploads/temp.png "Temp")
