@@ -18,7 +18,7 @@
         </thead>
         <tbody>
 						<tr>
-								<td colspan="5"> ![Goku 5 L](/uploads/goku-5-l.png "Goku 5 L") </td>
+								<td colspan="5"> <img src="https://fgwiki.herokuapp.com/uploads/goku-5-l.png" alt="Goku 5L" width="150" height="94"> </td>
 						</tr>
             <tr>
                 <td><strong>Dano</strong></td> 
