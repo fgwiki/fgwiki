@@ -28,10 +28,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>6f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>-3</td>
             </tr>
 						<tr>
 								<td colspan="5">Golpe de curto alcance. Primeiro golpe do Autocombo Light</td>
@@ -62,10 +62,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>9f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>-4</td>
             </tr>
 						<tr>
 								<td colspan="5"> Segundo golpe do Autocombo Light</td>
@@ -96,10 +96,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>14f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>-5</td>
             </tr>
 						<tr>
 								<td colspan="5">Terceiro golpe do Autocombo Light. Launcher</td>
@@ -130,10 +130,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>6f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>-3</td>
             </tr>
 						<tr>
 								<td colspan="5">Golpe de curto alcance agachado</td>
@@ -164,10 +164,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>9f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>-7</td>
             </tr>
 						<tr>
 								<td colspan="5">Golpe de médio alcance, levanta o oponente depois do 2M</td>
@@ -198,10 +198,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>10f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>-5</td>
             </tr>
 						<tr>
 								<td colspan="5">Golpe de médio alcance que acerta low, ótimo para começar combo a partir do neutro</td>
@@ -268,10 +268,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>14f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>-8</td>
             </tr>
 						<tr>
 								<td colspan="5">Golpe forte de alto alcance horizontal, tem wallbounce</td>
@@ -302,10 +302,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>14f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>--</td>
             </tr>
 						<tr>
 								<td colspan="5">Golpe forte agachado, tem alto alcance vertical e invulnerabilidade na parte superior, ideal para anti-air</td>
@@ -336,10 +336,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>13f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>-4</td>
             </tr>
 						<tr>
 								<td colspan="5">Ki Blast simples, para ataque de longo alcance</td>
@@ -370,13 +370,47 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>23f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>--</td>
             </tr>
 						<tr>
 								<td colspan="5">Ki Blast simples, para ataque de longo alcance</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+### 2S
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">2S</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>13f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-1</td>
+            </tr>
+						<tr>
+								<td colspan="5">Ki Blast agachado (não lembro desse golpe :P)</td>
 						</tr>
         </tbody>
     </table>
@@ -405,10 +439,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>6f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>--</td>
             </tr>
 						<tr>
 								<td colspan="5"> Golpe leve no ar, primeiro golpe do air Autocombo </td>
@@ -439,10 +473,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>10f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>--</td>
             </tr>
 						<tr>
 								<td colspan="5"> Golpe médio no ar, normal que dá mais dano sem causar knockdown ou launch </td>
@@ -473,10 +507,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>13f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>--</td>
             </tr>
 						<tr>
 								<td colspan="5"> Golpe de dano forte no ar, ataca o inimigo na direção do chão dando knockdown</td>
@@ -491,7 +525,7 @@
     <table>
         <thead>
             <tr>
-                <th colspan="5">5LL</th>
+                <th colspan="5">j.2H</th>
             </tr>
         </thead>
         <tbody>
@@ -507,10 +541,10 @@
             </tr> 
 						<tr>
                 <td>-- dmg</td>
-                <td>--f</td>
+                <td>11f</td>
                 <td>--f</td>
                 <td>--f</td> 
-                <td>-+</td>
+                <td>--</td>
             </tr>
 						<tr>
 								<td colspan="5"> Golpe de dano forte no ar, lança o inimigo mais pra cima, possibilitando continuar o combo caso você tenha double jump disponível</td>
@@ -525,7 +559,560 @@
     <table>
         <thead>
             <tr>
-                <th colspan="5">5LL</th>
+                <th colspan="5">j.S</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>12f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>--</td>
+            </tr>
+						<tr>
+								<td colspan="5"> Ki blast no ar. Ele sai angulado para frente+baixo</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+# Specials
+## Colocar nome do ataque do command list in-game *236L/M/H*
+### Light
+#### No chão
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">236L</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>24f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-5</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão leve do soco voador</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+#### No ar
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.236L</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>20f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>--</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão leve do soco voador no ar, causa knockdown normal</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+### Medium
+#### No chão
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">236M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>26f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-5</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão média do soco voador</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+#### No ar
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.236M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>22f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>--</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão média do soco voador no ar, causa hard knockdown</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+### Heavy/EX
+#### No chão
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">236H</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>24f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-5</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão EX do soco voador. Goku Teleporta instantânemente na frente do oponente</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+#### No ar
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.236H</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>24f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>--</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão EX do soco voador no ar</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+## Colocar nome do ataque do command list in-game *214L/M/H* 
+### Light
+#### No chão
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">214L</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>10f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-3</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão leve do "Tatsumaki Senpuukyaku" do Goku</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+#### No ar
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.214L</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>7f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>--</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão leve do "Tatsumaki Senpuukyaku" do Goku no ar</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+### Medium
+#### No chão
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">214M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>13f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-16</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão média do "Tatsumaki Senpuukyaku" do Goku</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+#### No ar
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.214M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>9f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>--</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão média do "Tatsumaki Senpuukyaku" do Goku no ar</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+### Heavy/EX
+#### No chão
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">214H</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>11f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-11</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão EX do "Tatsumaki Senpuukyaku" do Goku</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+#### No ar
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.214H</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>7f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>--</td>
+            </tr>
+						<tr>
+								<td colspan="5">Versão EX do "Tatsumaki Senpuukyaku" do Goku no ar</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+## Kamehameha - *236S*
+#### No chão
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">236S</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>18f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-16</td>
+            </tr>
+						<tr>
+								<td colspan="5">Kamehameha básico do Goku, vence Super Dash</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
+#### No ar
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.236S</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>18f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>--</td>
+            </tr>
+						<tr>
+								<td colspan="5">Kamehameha básico do Goku no ar, vence Super Dash</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+# Assist
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">236S</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>18f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-16</td>
+            </tr>
+						<tr>
+								<td colspan="5">Kamehameha básico do Goku, vence Super Dash</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+# Supers
+## Level 1 - Kamehameha 
+#### No chão
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">236L+M</th>
             </tr>
         </thead>
         <tbody>
@@ -547,62 +1134,145 @@
                 <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5"> Ki blast no ar. Ele sai angulado para frente+baixo</td>
+								<td colspan="5">Kamehameha versão Super do Goku</td>
 						</tr>
         </tbody>
     </table>
 </div>
 
-# Specials
-## Colocar nome do ataque do command list in-game *236L/M/H*
-### Light
-#### No chão
-
 #### No ar
 
-### Medium
-#### No chão
-
-#### No ar
-
-### Heavy/EX
-#### No chão
-
-#### No ar
-
-## Colocar nome do ataque do command list in-game *214L/M/H* 
-### Light
-#### No chão
-
-#### No ar
-
-### Medium
-#### No chão
-
-#### No ar
-
-### Heavy/EX
-#### No chão
-
-#### No ar
-
-## Kamehameha - *236S*
-#### No chão
-
-#### No ar
-
-
-# Assist
-
-# Supers
-## Level 1 - Kamehameha 
-#### No chão
-
-#### No ar
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.236L+M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Kamehameha versão Super do Goku. Aperte 2 depois do comando do Super para mirar para baixo</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
 
 ## Level 1 - Teleport Kamehameha
 #### No chão
 
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">214H+S</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Teleporte para trás do oponente seguido de Kamehameha versão Super do Goku. Angulado para diagonal cima</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
 #### No ar
 
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">j.214H+S</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Teleporte para o chão, atrás do oponente seguido de Kamehameha versão Super do Goku. Angulado para diagonal cima</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
 ## Level 3 - SSJ3 Kamehameha
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">214L+M</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Teleporte para trás do oponente seguido de um "hit grab" e Kamehameha na forma SSJ3. OTG</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
