@@ -204,7 +204,7 @@
                 <td>-5</td>
             </tr>
 						<tr>
-								<td colspan="5">Golpe de médio alcance que acerta low, ótimo para começar combo a partir do neutro</td>
+								<td colspan="5">Golpe de médio alcance que acerta low,<br> ótimo para começar combo a partir do neutro</td>
 						</tr>
         </tbody>
     </table>
@@ -308,7 +308,7 @@
                 <td>--</td>
             </tr>
 						<tr>
-								<td colspan="5">Golpe forte agachado, tem alto alcance vertical e invulnerabilidade na parte superior, ideal para anti-air</td>
+								<td colspan="5">Golpe forte agachado, tem alto alcance vertical e<br> invulnerabilidade na parte superior, ideal para anti-air</td>
 						</tr>
         </tbody>
     </table>
@@ -479,7 +479,7 @@
                 <td>--</td>
             </tr>
 						<tr>
-								<td colspan="5"> Golpe médio no ar, normal que dá mais dano sem causar knockdown ou launch </td>
+								<td colspan="5"> Golpe médio no ar, normal que dá mais dano<br> sem causar knockdown ou launch </td>
 						</tr>
         </tbody>
     </table>
@@ -513,7 +513,7 @@
                 <td>--</td>
             </tr>
 						<tr>
-								<td colspan="5"> Golpe de dano forte no ar, ataca o inimigo na direção do chão dando knockdown</td>
+								<td colspan="5"> Golpe de dano forte no ar, ataca o inimigo na direção<br> do chão dando knockdown</td>
 						</tr>
         </tbody>
     </table>
@@ -547,7 +547,7 @@
                 <td>--</td>
             </tr>
 						<tr>
-								<td colspan="5"> Golpe de dano forte no ar, lança o inimigo mais pra cima, possibilitando continuar o combo caso você tenha double jump disponível</td>
+								<td colspan="5"> Golpe de dano forte no ar, lança o inimigo mais pra cima,<br> possibilitando continuar o combo caso você tenha double jump disponível</td>
 						</tr>
         </tbody>
     </table>
@@ -756,7 +756,7 @@
                 <td>-5</td>
             </tr>
 						<tr>
-								<td colspan="5">Versão EX do soco voador. Goku Teleporta instantânemente na frente do oponente</td>
+								<td colspan="5">Versão EX do soco voador. Goku Teleporta<br> instantânemente na frente do oponente</td>
 						</tr>
         </tbody>
     </table>
@@ -1168,7 +1168,7 @@
                 <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5">Kamehameha versão Super do Goku. Aperte 2 depois do comando do Super para mirar para baixo</td>
+								<td colspan="5">Kamehameha versão Super do Goku. <br>Aperte 2 depois do comando do Super para mirar para baixo</td>
 						</tr>
         </tbody>
     </table>
@@ -1203,7 +1203,7 @@
                 <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5">Teleporte para trás do oponente seguido de Kamehameha versão Super do Goku. Angulado para diagonal cima</td>
+								<td colspan="5">Teleporte para trás do oponente seguido de Kamehameha<br> versão Super do Goku. Angulado para diagonal cima</td>
 						</tr>
         </tbody>
     </table>
@@ -1237,7 +1237,7 @@
                 <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5">Teleporte para o chão, atrás do oponente seguido de Kamehameha versão Super do Goku. Angulado para diagonal cima</td>
+								<td colspan="5">Teleporte para o chão, atrás do oponente seguido de<br> Kamehameha versão Super do Goku. Angulado para diagonal cima</td>
 						</tr>
         </tbody>
     </table>
@@ -1271,7 +1271,7 @@
                 <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5">Teleporte para trás do oponente seguido de um "hit grab" e Kamehameha na forma SSJ3. OTG</td>
+								<td colspan="5">Teleporte para trás do oponente seguido de um "hit grab" e<br> Kamehameha na forma SSJ3. OTG</td>
 						</tr>
         </tbody>
     </table>
