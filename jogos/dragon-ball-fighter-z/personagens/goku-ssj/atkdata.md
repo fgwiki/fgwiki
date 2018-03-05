@@ -547,7 +547,7 @@
                 <td>--</td>
             </tr>
 						<tr>
-								<td colspan="5"> Golpe de dano forte no ar, lança o inimigo mais pra cima,<br> possibilitando continuar o combo caso você tenha double jump disponível</td>
+								<td colspan="5"> Golpe de dano forte no ar, lança o inimigo mais pra cima,<br> possibilitando continuar o combo caso você tenha<br> double jump disponível</td>
 						</tr>
         </tbody>
     </table>
@@ -1237,7 +1237,7 @@
                 <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5">Teleporte para o chão, atrás do oponente seguido de<br> Kamehameha versão Super do Goku. Angulado para diagonal cima</td>
+								<td colspan="5">Teleporte para o chão, atrás do oponente seguido de<br> Kamehameha versão Super do Goku.<br>Angulado para diagonal cima</td>
 						</tr>
         </tbody>
     </table>
