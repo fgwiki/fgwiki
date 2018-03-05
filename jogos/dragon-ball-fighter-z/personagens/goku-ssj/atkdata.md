@@ -348,6 +348,40 @@
     </table>
 </div>
 
+### 5S (Hold)
+
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">5S (Hold)</th>
+            </tr>
+        </thead>
+        <tbody>
+						<tr>
+								<td colspan="5" style="text-align: center;"> <img src="https://fgwiki.herokuapp.com/uploads/temp.png" alt="Imagem temporaria" width="300" height="150"> </td>
+						</tr>
+            <tr>
+                <td><strong>Dano</strong></td> 
+                <td><strong>Start-up</strong></td>
+                <td><strong>Active</strong></td>
+                <td><strong>Recovery</strong></td>
+                <td><strong>on Hit</strong></td>
+            </tr> 
+						<tr>
+                <td>-- dmg</td>
+                <td>--f</td>
+                <td>--f</td>
+                <td>--f</td> 
+                <td>-+</td>
+            </tr>
+						<tr>
+								<td colspan="5">Ki Blast simples, para ataque de longo alcance</td>
+						</tr>
+        </tbody>
+    </table>
+</div>
+
 ## No ar
 ### j.L
 
