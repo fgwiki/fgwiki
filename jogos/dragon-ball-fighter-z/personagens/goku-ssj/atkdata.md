@@ -588,7 +588,7 @@
 </div>
 
 # Specials
-## Colocar nome do ataque do command list in-game *236L/M/H*
+## Dragon Flash Fist *236L/M/H*
 ### Light
 #### No chão
 
@@ -796,7 +796,7 @@
     </table>
 </div>
 
-## Colocar nome do ataque do command list in-game *214L/M/H* 
+## Rapid Kick Rush *214L/M/H* 
 ### Light
 #### No chão
 
@@ -1105,7 +1105,7 @@
     </table>
 </div>
 # Supers
-## Level 1 - Kamehameha 
+## Level 1 - Super Kamehameha 
 #### No chão
 
 <div style="overflow-x:auto;">
@@ -1134,7 +1134,7 @@
                 <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5">Kamehameha versão Super do Goku</td>
+								<td colspan="5">Kamehameha versão Super do Goku.<br>Pode ser angulado para cima caso aperta 8 após o input do Super.</td>
 						</tr>
         </tbody>
     </table>
@@ -1168,13 +1168,13 @@
                 <td>-+</td>
             </tr>
 						<tr>
-								<td colspan="5">Kamehameha versão Super do Goku. <br>Aperte 2 depois do comando do Super para mirar para baixo</td>
+								<td colspan="5">Kamehameha versão Super do Goku. <br>Pode ser angulado para baixo caso aperta 2 após o input do Super.</td>
 						</tr>
         </tbody>
     </table>
 </div>
 
-## Level 1 - Teleport Kamehameha
+## Level 1 - Instant Transmission Kamehameha
 #### No chão
 
 <div style="overflow-x:auto;">
@@ -1243,7 +1243,7 @@
     </table>
 </div>
 
-## Level 3 - SSJ3 Kamehameha
+## Level 3 - Meteor Smash
 
 <div style="overflow-x:auto;">
     <table>
