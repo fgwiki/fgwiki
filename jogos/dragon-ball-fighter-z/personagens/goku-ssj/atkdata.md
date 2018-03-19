@@ -1072,6 +1072,7 @@
         </tbody>
     </table>
 </div>
+
 # Assist
 <div style="overflow-x:auto;">
     <table>
@@ -1104,6 +1105,7 @@
         </tbody>
     </table>
 </div>
+
 # Supers
 ## Level 1 - Super Kamehameha 
 #### No chão
